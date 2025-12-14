@@ -1,3 +1,5 @@
 [
-  { "category": "Sports", "word": "Mike Tyson", "explanation": "best boxer every"}
+  { "category": "Sports", "word": "Mike Tyson", "explanation": "best boxer every"},
+  { "category": "food", "word": "cashew", "explanation": "nuts"}
+
 ]
