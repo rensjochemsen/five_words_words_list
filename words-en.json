@@ -1,5 +1,25 @@
 [
   { "category": "Sports", "word": "Mike Tyson", "explanation": "best boxer every"},
   { "category": "food", "word": "cashew", "explanation": "nuts"},
-  { "category": "additional", "word": "cat", "explanation": "shit"}
+  { "category": "additional", "word": "cat", "explanation": "shit"},
+  {
+    "category": "Random & Abstract",
+    "word": "Procrastination",
+    "explanation": "The act of delaying tasks or decisions even when it leads to negative consequences."
+  },
+  {
+    "category": "Random & Abstract",
+    "word": "Gut feeling",
+    "explanation": "An instinctive sense or intuition about something without conscious reasoning."
+  },
+  {
+    "category": "Random & Abstract",
+    "word": "Peer pressure",
+    "explanation": "The influence people feel from others to behave in a certain way in order to fit in or be accepted."
+  },
+  {
+    "category": "Random & Abstract",
+    "word": "Freedom of speech",
+    "explanation": "The right to express opinions and ideas without fear of censorship or punishment."
+  }
 ]
