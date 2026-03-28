@@ -1,1390 +1,5 @@
 [
   {
-    "category": "Ajax",
-    "word": "Johan Cruijff",
-    "explanation": "De grootste Ajax-speler aller tijden, drager van nummer 14 en de architect van het totaalvoetbal."
-  },
-  {
-    "category": "Ajax",
-    "word": "Sjaak Swart",
-    "explanation": "Mister Ajax, de speler met de meeste officiële wedstrijden (603) voor de club."
-  },
-  {
-    "category": "Ajax",
-    "word": "Piet Keizer",
-    "explanation": "De linksbuiten van het gouden elftal, bekend om zijn legendarische schijnbewegingen."
-  },
-  {
-    "category": "Ajax",
-    "word": "Rinus Michels",
-    "explanation": "De 'Generaal', de trainer die Ajax en Nederland wereldberoemd maakte met aanvallend voetbal."
-  },
-  {
-    "category": "Ajax",
-    "word": "Louis van Gaal",
-    "explanation": "De trainer die in 1995 met een piepjong team de Champions League won."
-  },
-  {
-    "category": "Ajax",
-    "word": "De Meer",
-    "explanation": "Het iconische, knusse stadion in Watergraafsmeer waar Ajax van 1934 tot 1996 speelde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Johan Cruijff ArenA",
-    "explanation": "De huidige thuishaven, voorheen bekend als de Amsterdam ArenA."
-  },
-  {
-    "category": "Ajax",
-    "word": "De Toekomst",
-    "explanation": "Het beroemde jeugdcomplex van Ajax waar talenten worden klaargestoomd voor het eerste."
-  },
-  {
-    "category": "Ajax",
-    "word": "Abdelhak Nouri",
-    "explanation": "Appie; het enorme talent met rugnummer 34 wiens carrière tragisch eindigde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Nummer 14",
-    "explanation": "Het rugnummer dat Ajax ter ere van Johan Cruijff officieel heeft teruggetrokken."
-  },
-  {
-    "category": "Ajax",
-    "word": "Marco van Basten",
-    "explanation": "De 'San Marco', topspits die drie Gouden Ballen won en op jonge leeftijd stopte door een enkelblessure."
-  },
-  {
-    "category": "Ajax",
-    "word": "Frank Rijkaard",
-    "explanation": "De man die als ervaren kracht terugkeerde om in 1995 de beker met de grote oren te winnen."
-  },
-  {
-    "category": "Ajax",
-    "word": "Dennis Bergkamp",
-    "explanation": "De 'Non-Flying Dutchman', een technisch genie op de nummer 10 positie."
-  },
-  {
-    "category": "Ajax",
-    "word": "Jari Litmanen",
-    "explanation": "De Finse publiekslieveling die in de jaren '90 uitgroeide tot de koning van de nummer 10 positie."
-  },
-  {
-    "category": "Ajax",
-    "word": "Edwin van der Sar",
-    "explanation": "De keeper uit 1995 en latere algemeen directeur van de club."
-  },
-  {
-    "category": "Ajax",
-    "word": "Danny Blind",
-    "explanation": "De aanvoerder in 1995 die alles won wat er met een club te winnen valt."
-  },
-  {
-    "category": "Ajax",
-    "word": "Patrick Kluivert",
-    "explanation": "De 18-jarige invaller die in 1995 de winnende treffer scoorde in de CL-finale tegen AC Milan."
-  },
-  {
-    "category": "Ajax",
-    "word": "Marc Overmars",
-    "explanation": "De razendsnelle 'Tuitut' van de jaren '90 en latere technisch directeur."
-  },
-  {
-    "category": "Ajax",
-    "word": "Clarence Seedorf",
-    "explanation": "Het toptalent dat op 16-jarige leeftijd debuteerde en vier keer de Champions League won."
-  },
-  {
-    "category": "Ajax",
-    "word": "Edgar Davids",
-    "explanation": "De 'Pitbull' op het middenveld, bekend om zijn agressieve spel en sportbril."
-  },
-  {
-    "category": "Ajax",
-    "word": "Luis Suárez",
-    "explanation": "De Uruguayaanse topspits die bij Ajax aan de lopende band scoorde en aanvoerder was."
-  },
-  {
-    "category": "Ajax",
-    "word": "Zlatan Ibrahimović",
-    "explanation": "De Zweedse ster die bij Ajax zijn internationale doorbraak beleefde met een solo tegen NAC."
-  },
-  {
-    "category": "Ajax",
-    "word": "Dušan Tadić",
-    "explanation": "De leider van het elftal dat in 2019 de wereld verbaasde door Real Madrid en Juventus uit te schakelen."
-  },
-  {
-    "category": "Ajax",
-    "word": "Erik ten Hag",
-    "explanation": "De trainer die Ajax na jaren weer terugbracht naar de absolute top van Europa."
-  },
-  {
-    "category": "Ajax",
-    "word": "Klaas-Jan Huntelaar",
-    "explanation": "The Hunter, de spits die altijd op de juiste plek stond en twee periodes bij Ajax diende."
-  },
-  {
-    "category": "Ajax",
-    "word": "Wesley Sneijder",
-    "explanation": "Het toptalent uit de Utrechtse wijk Ondiep dat uitgroeide tot een wereldster."
-  },
-  {
-    "category": "Ajax",
-    "word": "Rafael van der Vaart",
-    "explanation": "De blonde spelmaker die op jonge leeftijd al aanvoerder was en bekendstond om zijn fluwelen techniek."
-  },
-  {
-    "category": "Ajax",
-    "word": "Jan Vertonghen",
-    "explanation": "De Belgische verdediger die met zijn passie en goals een icoon werd in Amsterdam."
-  },
-  {
-    "category": "Ajax",
-    "word": "Toby Alderweireld",
-    "explanation": "De rustige Belgische verdediger die samen met Vertonghen een onpasseerbaar duo vormde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Christian Eriksen",
-    "explanation": "De Deense spelmaker die doorbrak onder Frank de Boer en Ajax naar meerdere titels hielp."
-  },
-  {
-    "category": "Ajax",
-    "word": "Frank de Boer",
-    "explanation": "De trainer die Ajax vier keer op rij landskampioen maakte."
-  },
-  {
-    "category": "Ajax",
-    "word": "Matthijs de Ligt",
-    "explanation": "De jongste aanvoerder ooit in een halve finale van de Champions League."
-  },
-  {
-    "category": "Ajax",
-    "word": "Frenkie de Jong",
-    "explanation": "De middenvelder met de weergaloze dribbel die Ajax 86 miljoen euro opleverde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Hakim Ziyech",
-    "explanation": "De 'Wizard of AMS' die met zijn vlijmscherpe passes het publiek in vervoering bracht."
-  },
-  {
-    "category": "Ajax",
-    "word": "André Onana",
-    "explanation": "De Kameroense doelman die jarenlang de onbetwiste nummer één was."
-  },
-  {
-    "category": "Ajax",
-    "word": "Lasse Schöne",
-    "explanation": "De Deense vrijetrappenspecialist met de meeste wedstrijden voor een buitenlandse Ajax-speler."
-  },
-  {
-    "category": "Ajax",
-    "word": "Daley Blind",
-    "explanation": "De zoon van Danny, bekend om zijn spelinzicht en crosspasses."
-  },
-  {
-    "category": "Ajax",
-    "word": "Brian Brobbey",
-    "explanation": "De oersterke spits uit de eigen jeugd die bekendstaat om zijn fysieke kracht."
-  },
-  {
-    "category": "Ajax",
-    "word": "Steven Berghuis",
-    "explanation": "De creatieve middenvelder die de gevoelige overstap maakte van Feyenoord naar Ajax."
-  },
-  {
-    "category": "Ajax",
-    "word": "Jordan Henderson",
-    "explanation": "De ervaren Engelse middenvelder en voormalig Liverpool-kapitein die in 2024 naar Ajax kwam."
-  },
-  {
-    "category": "Ajax",
-    "word": "Francesco Farioli",
-    "explanation": "De jonge Italiaanse trainer die in 2024 werd aangesteld om Ajax weer op te bouwen."
-  },
-  {
-    "category": "Ajax",
-    "word": "Peter Bosz",
-    "explanation": "De trainer die in 2017 de finale van de Europa League haalde met extreem aanvallend voetbal."
-  },
-  {
-    "category": "Ajax",
-    "word": "Europa Cup I 1971",
-    "explanation": "De eerste grote Europese prijs, gewonnen op Wembley tegen Panathinaikos."
-  },
-  {
-    "category": "Ajax",
-    "word": "Europa Cup I 1972",
-    "explanation": "De tweede op rij, gewonnen in De Kuip tegen Inter Milan door twee goals van Cruijff."
-  },
-  {
-    "category": "Ajax",
-    "word": "Europa Cup I 1973",
-    "explanation": "De hattrick compleet door Juventus te verslaan in Belgrado."
-  },
-  {
-    "category": "Ajax",
-    "word": "Champions League 1995",
-    "explanation": "De laatste keer dat Ajax de grootste prijs van Europa won, in Wenen."
-  },
-  {
-    "category": "Ajax",
-    "word": "Wereldbeker 1995",
-    "explanation": "Gewonnen in Tokio tegen Grêmio na een zenuwslopende penaltyserie."
-  },
-  {
-    "category": "Ajax",
-    "word": "UEFA Cup 1992",
-    "explanation": "De winst over twee wedstrijden tegen Torino onder Louis van Gaal."
-  },
-  {
-    "category": "Ajax",
-    "word": "Europacup II 1987",
-    "explanation": "De winst in Athene tegen Lokomotiv Leipzig door een kopbal van Van Basten."
-  },
-  {
-    "category": "Ajax",
-    "word": "De Klassieker",
-    "explanation": "De beladen wedstrijd tegen aartsrivaal Feyenoord."
-  },
-  {
-    "category": "Ajax",
-    "word": "De Topper",
-    "explanation": "De wedstrijd tussen de twee meest succesvolle clubs van Nederland: Ajax en PSV."
-  },
-  {
-    "category": "Ajax",
-    "word": "F-Side",
-    "explanation": "De fanatieke harde kern van Ajax, vernoemd naar vak F in stadion De Meer."
-  },
-  {
-    "category": "Ajax",
-    "word": "Vak 410",
-    "explanation": "De voormalige sfeergroep die bekendstond om hun grote vlaggen en trommels."
-  },
-  {
-    "category": "Ajax",
-    "word": "Lucky",
-    "explanation": "De officiële mascotte van de club, de witte lynx."
-  },
-  {
-    "category": "Ajax",
-    "word": "Godenzonen",
-    "explanation": "De meest gebruikte bijnaam voor de spelers van Ajax."
-  },
-  {
-    "category": "Ajax",
-    "word": "Mijn club",
-    "explanation": "De titel van het beroemde liedje van Harry Slinger over Ajax."
-  },
-  {
-    "category": "Ajax",
-    "word": "Drie sterren",
-    "explanation": "De sterren op het shirt die staan voor de meer dan 30 behaalde landstitels."
-  },
-  {
-    "category": "Ajax",
-    "word": "Bobby Haarms",
-    "explanation": "De 'Goede Beul', de assistent-trainer die geblesseerde spelers genadeloos fit maakte."
-  },
-  {
-    "category": "Ajax",
-    "word": "David Endt",
-    "explanation": "De voormalige teammanager en het geweten van de club."
-  },
-  {
-    "category": "Ajax",
-    "word": "Sjaak Wolfs",
-    "explanation": "De iconische materiaalman die decennialang voor de spelers zorgde."
-  },
-  {
-    "category": "Ajax",
-    "word": "1900",
-    "explanation": "Het jaar waarin Floris Stempel, Han Dade en Carel Reeser de club oprichtten."
-  },
-  {
-    "category": "Ajax",
-    "word": "Olympisch Stadion",
-    "explanation": "Het stadion waar Ajax de grote Europese avonden speelde voordat de ArenA bestond."
-  },
-  {
-    "category": "Ajax",
-    "word": "Mistwedstrijd",
-    "explanation": "De legendarische wedstrijd in 1966 tegen Liverpool die Ajax met 5-1 won in dichte mist."
-  },
-  {
-    "category": "Ajax",
-    "word": "Staafincident",
-    "explanation": "Het dieptepunt in 1989 waarbij een staaf vanuit het publiek op de Oostenrijkse keeper Lahnert werd gegooid."
-  },
-  {
-    "category": "Ajax",
-    "word": "Museumplein",
-    "explanation": "De plek waar Ajax traditioneel gehuldigd werd bij het behalen van de titel."
-  },
-  {
-    "category": "Ajax",
-    "word": "Leidseplein",
-    "explanation": "De plek waar vroeger de balkonscènes plaatsvonden na grote successen."
-  },
-  {
-    "category": "Ajax",
-    "word": "De Dennenappel",
-    "explanation": "De bijnaam voor de KNVB-beker vanwege zijn vorm."
-  },
-  {
-    "category": "Ajax",
-    "word": "De schaal",
-    "explanation": "De trofee die wordt uitgereikt aan de kampioen van Nederland."
-  },
-  {
-    "category": "Ajax",
-    "word": "Hennie Spijkerman",
-    "explanation": "De trouwe assistent-trainer onder onder andere Frank de Boer."
-  },
-  {
-    "category": "Ajax",
-    "word": "Christian Poulsen",
-    "explanation": "De Deense controleur die na zijn carrière terugkeerde als assistent-trainer."
-  },
-  {
-    "category": "Ajax",
-    "word": "Mitchell van der Gaag",
-    "explanation": "De assistent van Erik ten Hag die mee naar Manchester United verhuisde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Richard Witschge",
-    "explanation": "De techniektrainer en oud-speler die de bal hoog hield tijdens een Klassieker."
-  },
-  {
-    "category": "Ajax",
-    "word": "Gerald Vanenburg",
-    "explanation": "Vaantje; een van de technisch meest begaafde Ajax-spelers ooit."
-  },
-  {
-    "category": "Ajax",
-    "word": "Arnold Mühren",
-    "explanation": "De stijlvolle middenvelder die zowel de Europacup I als de Europacup II won met Ajax."
-  },
-  {
-    "category": "Ajax",
-    "word": "Wim Suurbier",
-    "explanation": "De rechtsback van het gouden elftal en een van de grootste grappenmakers van de club."
-  },
-  {
-    "category": "Ajax",
-    "word": "Ruud Krol",
-    "explanation": "De verdediger die het record van de meeste Eredivisiewedstrijden voor Ajax in handen heeft."
-  },
-  {
-    "category": "Ajax",
-    "word": "Barry Hulshoff",
-    "explanation": "De robuuste verdediger met de lange baard uit het succesteam van de jaren '70."
-  },
-  {
-    "category": "Ajax",
-    "word": "Gerrie Mühren",
-    "explanation": "Bekend om het hooghouden van de bal in het Bernabéu tijdens de halve finale tegen Real Madrid."
-  },
-  {
-    "category": "Ajax",
-    "word": "Johnny Rep",
-    "explanation": "De 'blonde engel' die in 1973 de winnende goal scoorde in de Europacup I-finale."
-  },
-  {
-    "category": "Ajax",
-    "word": "Arie Haan",
-    "explanation": "Middenvelder met een verwoestend afstandsschot."
-  },
-  {
-    "category": "Ajax",
-    "word": "Velibor Vasović",
-    "explanation": "De eerste buitenlandse aanvoerder van Ajax die de Europacup I omhoog mocht houden."
-  },
-  {
-    "category": "Ajax",
-    "word": "Stefan Kovács",
-    "explanation": "De Roemeense trainer die de vrije Ajax-geest van de jaren '70 koesterde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Leo Beenhakker",
-    "explanation": "Don Leo; de trainer die Ajax twee keer naar de landstitel leidde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Ronald Koeman",
-    "explanation": "Behaalde de kwartfinale van de CL in 2003 met een team vol jonge sterren."
-  },
-  {
-    "category": "Ajax",
-    "word": "Michael van Praag",
-    "explanation": "De zoon van Jaap, voorzitter tijdens de successen in de jaren '90."
-  },
-  {
-    "category": "Ajax",
-    "word": "Alex Kroes",
-    "explanation": "De huidige technische man van de club (2024)."
-  },
-  {
-    "category": "Ajax",
-    "word": "Jorrel Hato",
-    "explanation": "Het jonge verdedigende toptalent dat op 17-jarige leeftijd al aanvoerder was."
-  },
-  {
-    "category": "Ajax",
-    "word": "Remko Pasveer",
-    "explanation": "De ervaren doelman die op late leeftijd nog zijn debuut maakte in Oranje als Ajax-speler."
-  },
-  {
-    "category": "Ajax",
-    "word": "Kenneth Taylor",
-    "explanation": "De middenvelder uit de eigen opleiding die een vaste waarde werd in het eerste."
-  },
-  {
-    "category": "Ajax",
-    "word": "Mika Godts",
-    "explanation": "De jonge Belgische vleugelspeler met de kenmerkende passeeractie."
-  },
-  {
-    "category": "Ajax",
-    "word": "Wout Weghorst",
-    "explanation": "De spits die in 2024 naar Ajax kwam voor zijn passie en winnaarsmentaliteit."
-  },
-  {
-    "category": "Ajax",
-    "word": "Davy Klaassen",
-    "explanation": "Mister 1-0; de middenvelder die altijd op de juiste plek stond voor de openingsgoal."
-  },
-  {
-    "category": "Ajax",
-    "word": "Nicolas Tagliafico",
-    "explanation": "De strijdlustige Argentijnse linksback die de harten van de fans stal."
-  },
-  {
-    "category": "Ajax",
-    "word": "Lisandro Martínez",
-    "explanation": "The Butcher; de kleine maar meedogenloze Argentijnse verdediger."
-  },
-  {
-    "category": "Ajax",
-    "word": "Antony",
-    "explanation": "De Braziliaanse dribbelkoning die voor bijna 100 miljoen naar Manchester United vertrok."
-  },
-  {
-    "category": "Ajax",
-    "word": "Sébastien Haller",
-    "explanation": "De spits die in zijn eerste CL-seizoen in bijna elke wedstrijd scoorde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Donny van de Beek",
-    "explanation": "De 'Marathonman' van het team uit 2019."
-  },
-  {
-    "category": "Ajax",
-    "word": "David Neres",
-    "explanation": "De Braziliaanse vleugelspeler die scoorde in de legendarische 1-4 tegen Real Madrid."
-  },
-  {
-    "category": "Ajax",
-    "word": "Nemanja Gudelj",
-    "explanation": "Middenvelder bekend om zijn vrije trappen en vele tatoeages."
-  },
-  {
-    "category": "Ajax",
-    "word": "Arkadiusz Milik",
-    "explanation": "De Poolse spits die onder Frank de Boer topscorer werd."
-  },
-  {
-    "category": "Ajax",
-    "word": "Davinson Sánchez",
-    "explanation": "De ijzersterke Colombiaanse verdediger die na één jaar voor een recordbedrag vertrok."
-  },
-  {
-    "category": "Ajax",
-    "word": "Amin Younes",
-    "explanation": "De kleine Duitse dribbelaar die de verdediging van Schalke 04 horendol maakte."
-  },
-  {
-    "category": "Ajax",
-    "word": "Ryan Gravenberch",
-    "explanation": "Het fysiek sterke toptalent dat op 16-jarige leeftijd debuteerde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Devyne Rensch",
-    "explanation": "De veelzijdige verdediger uit de eigen jeugdopleiding."
-  },
-  {
-    "category": "Ajax",
-    "word": "Jurriën Timber",
-    "explanation": "De technisch begaafde verdediger die moeiteloos inschoof op het middenveld."
-  },
-  {
-    "category": "Ajax",
-    "word": "Mohammed Kudus",
-    "explanation": "De Ghanese smaakmaker met een fabelachtige techniek."
-  },
-  {
-    "category": "Ajax",
-    "word": "Edson Álvarez",
-    "explanation": "De Mexicaanse stofzuiger op het middenveld."
-  },
-  {
-    "category": "Ajax",
-    "word": "Youri Baas",
-    "explanation": "De verdediger die onder Farioli verrassend doorbrak als centrale verdediger."
-  },
-  {
-    "category": "Ajax",
-    "word": "Fitz-Jim",
-    "explanation": "De lichte, technische middenvelder met de goede steekpass."
-  },
-  {
-    "category": "Ajax",
-    "word": "Kristian Hlynsson",
-    "explanation": "De IJslandse middenvelder uit de eigen opleiding."
-  },
-  {
-    "category": "Ajax",
-    "word": "John van 't Schip",
-    "explanation": "De clubman die in een moeilijke periode instapte als interim-trainer."
-  },
-  {
-    "category": "Ajax",
-    "word": "Maurice Steijn",
-    "explanation": "De trainer onder wie Ajax historisch laag op de ranglijst stond (18e)."
-  },
-  {
-    "category": "Ajax",
-    "word": "Sven Mislintat",
-    "explanation": "De technische man die verantwoordelijk was voor de veelbesproken aankopen van 2023."
-  },
-  {
-    "category": "Ajax",
-    "word": "Alfred Schreuder",
-    "explanation": "De opvolger van Erik ten Hag die het seizoen niet mocht afmaken."
-  },
-  {
-    "category": "Ajax",
-    "word": "Henk ten Cate",
-    "explanation": "De trainer die de beker won en bijna kampioen werd in 2007."
-  },
-  {
-    "category": "Ajax",
-    "word": "Co Adriaanse",
-    "explanation": "De man van de 'scorebordjournalistiek' en het 'kerstboomsysteem'."
-  },
-  {
-    "category": "Ajax",
-    "word": "Martin Jol",
-    "explanation": "De trainer onder wie Ajax meer dan 100 goals scoorde in één seizoen maar geen kampioen werd."
-  },
-  {
-    "category": "Ajax",
-    "word": "Frank Arnesen",
-    "explanation": "Oud-speler en technisch directeur (later bij Feyenoord)."
-  },
-  {
-    "category": "Ajax",
-    "word": "Jesper Olsen",
-    "explanation": "De 'vlo' op de vleugel uit de jaren '80."
-  },
-  {
-    "category": "Ajax",
-    "word": "Søren Lerby",
-    "explanation": "De Deen met de afgezakte kousen en de enorme winnaarsmentaliteit."
-  },
-  {
-    "category": "Ajax",
-    "word": "Stefan Pettersson",
-    "explanation": "De Zweedse spits die bekendstond als een echte heer op en buiten het veld."
-  },
-  {
-    "category": "Ajax",
-    "word": "Shota Arveladze",
-    "explanation": "De Georgische spits die razend populair was bij de fans."
-  },
-  {
-    "category": "Ajax",
-    "word": "Nwankwo Kanu",
-    "explanation": "De lange, slungelige maar geniale technicus uit de jaren '90."
-  },
-  {
-    "category": "Ajax",
-    "word": "Finidi George",
-    "explanation": "De man van de loepzuivere voorzetten vanaf de rechterflank."
-  },
-  {
-    "category": "Ajax",
-    "word": "Winston Bogarde",
-    "explanation": "De onverzettelijke verdediger die later als assistent de defensie trainde."
-  },
-  {
-    "category": "Ajax",
-    "word": "Michael Reiziger",
-    "explanation": "De vaste rechtsback van het gouden team en latere coach van Jong Ajax."
-  },
-  {
-    "category": "Ajax",
-    "word": "Tomas Galasek",
-    "explanation": "De betrouwbare Tsjechische controleur."
-  },
-  {
-    "category": "Ajax",
-    "word": "Cristian Chivu",
-    "explanation": "De Roemeense verdediger die aanvoerder werd en een geweldige traptechniek had."
-  },
-  {
-    "category": "Ajax",
-    "word": "Hatem Trabelsi",
-    "explanation": "De Tunesische rechtsback die de hele flank bestreek."
-  },
-  {
-    "category": "Ajax",
-    "word": "Maxwell",
-    "explanation": "De stijlvolle Braziliaanse linksback en beste vriend van Zlatan."
-  },
-  {
-    "category": "Ajax",
-    "word": "Urby Emanuelson",
-    "explanation": "De veelzijdige speler die de hele linkerkant kon bestrijken."
-  },
-  {
-    "category": "Ajax",
-    "word": "Siem de Jong",
-    "explanation": "De man van de twee goals in de kampioenswedstrijd tegen FC Twente op 15 mei."
-  },
-  {
-    "category": "Ajax",
-    "word": "Demy de Zeeuw",
-    "explanation": "Middenvelder die een schop in zijn gezicht kreeg in de WK-halve finale als Ajax-speler."
-  },
-  {
-    "category": "Ajax",
-    "word": "Eyong Enoh",
-    "explanation": "De stofzuiger uit Kameroen die altijd bleef gaan."
-  },
-  {
-    "category": "Ajax",
-    "word": "Thulani Serero",
-    "explanation": "De kleine behendige Zuid-Afrikaan die scoorde tegen Barcelona."
-  },
-  {
-    "category": "Ajax",
-    "word": "Arek Milik",
-    "explanation": "De Poolse spits."
-  },
-  {
-    "category": "Ajax",
-    "word": "Amin Younes",
-    "explanation": "Duitse dribbelaar."
-  },
-  {
-    "category": "Ajax",
-    "word": "Kasper Dolberg",
-    "explanation": "De ijskoude Deense spits die doorbrak onder Peter Bosz."
-  },
-  {
-    "category": "Ajax",
-    "word": "Justin Kluivert",
-    "explanation": "De zoon van Patrick die een hattrick scoorde tegen Roda JC."
-  },
-  {
-    "category": "Ajax",
-    "word": "Noa Lang",
-    "explanation": "Het brutale talent dat scoorde bij zijn debuut tegen FC Twente."
-  },
-  {
-    "category": "Ajax",
-    "word": "Sergiño Dest",
-    "explanation": "De Amerikaans-Nederlandse rechtsback die naar Barcelona vertrok."
-  },
-  {
-    "category": "Ajax",
-    "word": "Sven Botman",
-    "explanation": "De verdediger die via een verhuurperiode bij Heerenveen uitgroeide tot een ster."
-  },
-  {
-    "category": "Ajax",
-    "word": "Micky van de Ven",
-    "explanation": "Nee, die speelde bij Volendam! Ajax-jeugd: Mitchel Bakker."
-  },
-  {
-    "category": "Ajax",
-    "word": "Jong Ajax",
-    "explanation": "Het beloftenelftal dat uitkomt in de Keuken Kampioen Divisie."
-  },
-  {
-    "category": "Ajax",
-    "word": "Ajax Vrouwen",
-    "explanation": "Het succesvolle vrouwenteam van de club."
-  },
-  {
-    "category": "Ajax",
-    "word": "Daphne Koster",
-    "explanation": "Het boegbeeld van het Ajax-vrouwenvoetbal."
-  },
-  {
-    "category": "Ajax",
-    "word": "Sherida Spitse",
-    "explanation": "De aanvoerster en recordinternational die bij Ajax speelt."
-  },
-  {
-    "category": "Ajax",
-    "word": "De Toekomst",
-    "explanation": "Het hoofdwedstrijdveld van het jeugdcomplex."
-  },
-  {
-    "category": "Ajax",
-    "word": "De 34e titel",
-    "explanation": "De emotionele landstitel die werd opgedragen aan Abdelhak Nouri."
-  },
-  {
-    "category": "Ajax",
-    "word": "15 mei 2011",
-    "explanation": "De dag van de 'beslissingswedstrijd' tegen FC Twente voor de 30e titel."
-  },
-  {
-    "category": "Ajax",
-    "word": "Derde ster",
-    "explanation": "Behaald in 2011 na het kampioenschap tegen Twente."
-  },
-  {
-    "category": "Ajax",
-    "word": "Ziggo",
-    "explanation": "De huidige hoofdsponsor op de borst."
-  },
-  {
-    "category": "Ajax",
-    "word": "ABN AMRO",
-    "explanation": "De klassieke sponsor die jarenlang verticaal op het shirt stond."
-  },
-  {
-    "category": "Ajax",
-    "word": "TDK",
-    "explanation": "De legendarische sponsor uit de jaren '80 (Van Basten tijdperk)."
-  },
-  {
-    "category": "Ajax",
-    "word": "Bob Marley shirt",
-    "explanation": "Het populaire zwarte derde shirt met rood-geel-groene details ter ere van 'Three Little Birds'."
-  },
-  {
-    "category": "Ajax",
-    "word": "Three Little Birds",
-    "explanation": "Het onofficiële clublied dat in de rust altijd massaal wordt gezongen."
-  },
-  {
-    "category": "Ajax",
-    "word": "Geef mij maar Amsterdam",
-    "explanation": "Het lied van Johnny Jordaan dat altijd klinkt in het stadion."
-  },
-  {
-    "category": "Ajax",
-    "word": "Bloed, zweet en tranen",
-    "explanation": "Het nummer van André Hazes dat onlosmakelijk verbonden is met de sfeer."
-  },
-  {
-    "category": "Ajax",
-    "word": "Fluwelen Revolutie",
-    "explanation": "De machtsstrijd binnen Ajax die door Johan Cruijff werd ingezet."
-  },
-  {
-    "category": "Ajax",
-    "word": "Plan Cruijff",
-    "explanation": "De visie van Johan om de macht terug te geven aan de oud-voetballers."
-  },
-  {
-    "category": "Ajax",
-    "word": "Amsterdamse bluf",
-    "explanation": "De zelfverzekerde houding die vaak aan de club wordt toegeschreven."
-  },
-  {
-    "category": "Ajax",
-    "word": "Totaalvoetbal",
-    "explanation": "De speelstijl waarbij spelers constant van positie wisselen."
-  },
-  {
-    "category": "Ajax",
-    "word": "Drie-vier-drie",
-    "explanation": "Het klassieke Ajax-systeem met een ruit op het middenveld."
-  },
-  {
-    "category": "Ajax",
-    "word": "Ajax-DNA",
-    "explanation": "De term voor de specifieke cultuur en speelwijze van de club."
-  },
-  {
-    "category": "Ajax",
-    "word": "Godenzoon",
-    "explanation": "Enkelvoud van Godenzonen."
-  },
-  {
-    "category": "Ajax",
-    "word": "Andre Onana",
-    "explanation": "Doelman."
-  },
-  {
-    "category": "Ajax",
-    "word": "Gerrie Muhren",
-    "explanation": "Hooghouden in Madrid."
-  },
-  {
-    "category": "Ajax",
-    "word": "Wim Jonk",
-    "explanation": "Middenvelder met een fluwelen trap, later hoofd jeugdopleiding."
-  },
-  {
-    "category": "Ajax",
-    "word": "Bryan Roy",
-    "explanation": "De linksbuiten van het team uit 1992."
-  },
-  {
-    "category": "Ajax",
-    "word": "Tscheu La Ling",
-    "explanation": "De grillige maar geniale rechtsbuiten uit de jaren '70."
-  },
-  {
-    "category": "Ajax",
-    "word": "Simon Tahamata",
-    "explanation": "De kleine dribbelaar die altijd populair is gebleven bij het publiek."
-  },
-  {
-    "category": "Ajax",
-    "word": "Tonny Bruins Slot",
-    "explanation": "De legendarische analist en rechterhand van Johan Cruijff en Ronald Koeman."
-  },
-  {
-    "category": "Ajax",
-    "word": "Piet Schrijvers",
-    "explanation": "De 'Beer van De Meer', de robuuste doelman uit de jaren '70."
-  },
-  {
-    "category": "Ajax",
-    "word": "Frank Arnesen",
-    "explanation": "De Deense middenvelder."
-  },
-  {
-    "category": "Ajax",
-    "word": "Ajax Life",
-    "explanation": "Het blad van de officiële supportersvereniging."
-  },
-  {
-    "category": "Ajax",
-    "word": "Dapp're Strijders",
-    "explanation": "Onderdeel van het clublied."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Zeus",
-    "explanation": "De Griekse oppergod en heerser van de Olympus, bekend om zijn bliksemschichten en vele affaires."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Jupiter",
-    "explanation": "De Romeinse tegenhanger van Zeus, de god van de hemel en het onweer."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Poseidon",
-    "explanation": "De Griekse god van de zee die met zijn drietand aardbevingen en stormen veroorzaakt."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Neptunus",
-    "explanation": "De Romeinse god van de wateren en de zeeën."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hades",
-    "explanation": "De Griekse god van de onderwereld en de doden (ook de naam van de plek zelf)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Pluto",
-    "explanation": "De Romeinse god van de onderwereld en de rijkdommen in de aarde."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Athena",
-    "explanation": "De Griekse godin van de wijsheid en de strategische oorlogsvoering, geboren uit het hoofd van Zeus."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Minerva",
-    "explanation": "De Romeinse godin van de wijsheid, kunst en scholen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Ares",
-    "explanation": "De Griekse god van de bloedige en brute oorlog."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Mars",
-    "explanation": "De Romeinse god van de oorlog, maar ook een beschermer van de landbouw en veel belangrijker voor de Romeinen dan Ares voor de Grieken."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Aphrodite",
-    "explanation": "De Griekse godin van de liefde en de schoonheid, geboren uit het schuim van de zee."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Venus",
-    "explanation": "De Romeinse godin van de liefde en de tuinen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Apollo",
-    "explanation": "De god van het licht, de muziek en de voorspellingskunst (draagt bij beide culturen dezelfde naam)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Artemis",
-    "explanation": "De Griekse godin van de jacht en de maan, tweelingzus van Apollo."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Diana",
-    "explanation": "De Romeinse godin van de jacht, wilde dieren en het bos."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hermes",
-    "explanation": "De Griekse godenbode met de gevleugelde sandalen, ook de god van de dieven en reizigers."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Mercurius",
-    "explanation": "De Romeinse god van de handel en de boodschapper van de goden."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hephaestus",
-    "explanation": "De Griekse smid van de goden, die in een vulkaan werkt en de wapens van Zeus smeedt."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Vulcanus",
-    "explanation": "De Romeinse god van het vuur en de smeedkunst."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Dionysus",
-    "explanation": "De Griekse god van de wijn, het feestvieren en de waanzin."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Bacchus",
-    "explanation": "De Romeinse naam voor de god van de wijn."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hercules",
-    "explanation": "De Romeinse naam voor de Griekse held Herakles, bekend om zijn twaalf onmogelijke werken."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Achilles",
-    "explanation": "De grootste Griekse strijder in de Trojaanse oorlog, wiens enige zwakke plek zijn hiel was."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Odysseus",
-    "explanation": "De koning van Ithaca die er tien jaar over deed om na de Trojaanse oorlog thuis te komen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Perseus",
-    "explanation": "De held die de Gorgon Medusa onthoofdde en Andromeda redde."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Medusa",
-    "explanation": "Het monster met slangen als haar waarvan de blik mensen in steen veranderde."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Minotaurus",
-    "explanation": "Het wezen met het lichaam van een man en de kop van een stier, opgesloten in het labyrint op Kreta."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Cerberus",
-    "explanation": "De driekoppige hond die de ingang van de onderwereld bewaakt."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Pandora's doos",
-    "explanation": "De kruik (vaak doos genoemd) die alle rampen over de wereld verspreidde toen hij werd geopend, behalve de hoop."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Prometheus",
-    "explanation": "De Titaan die het vuur van de goden stal om aan de mensen te geven en als straf aan een rots werd geketend."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Icarus",
-    "explanation": "De jongen die met vleugels van was en veren te dicht bij de zon vloog en in zee stortte."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Atlas",
-    "explanation": "De Titaan die als straf het hemelgewelf op zijn schouders moest dragen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Sisyphus",
-    "explanation": "De man die voor eeuwig een zwaar rotsblok een berg op moet duwen, dat vlak voor de top weer naar beneden rolt."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Koning Midas",
-    "explanation": "De man die wenste dat alles wat hij aanraakte in goud veranderde, wat hem bijna de dood bracht."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Narcissus",
-    "explanation": "De knappe jongeman die verliefd werd op zijn eigen spiegelbeeld en wegkwijnde."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Orpheus",
-    "explanation": "De geniale muzikant die naar de onderwereld afdaalde om zijn vrouw Eurydice terug te halen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Persephone",
-    "explanation": "De dochter van Demeter die door Hades werd ontvoerd en de reden is voor de seizoenen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Styx",
-    "explanation": "De rivier in de onderwereld waar de goden onbreekbare eden bij zweren."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Charon",
-    "explanation": "De veerman die de zielen van de doden over de rivier de Styx zet tegen betaling van een munt."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Tartarus",
-    "explanation": "De diepste duisternis in de onderwereld waar de Titanen en de ergste zondaars gevangen zitten."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Elysese Velden",
-    "explanation": "Elysium; de paradijselijke plek in de onderwereld voor helden en deugdzame mensen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Olympus",
-    "explanation": "De hoogste berg van Griekenland en de woonplaats van de twaalf belangrijkste goden."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Sphinx",
-    "explanation": "Het monster met het lichaam van een leeuw en het hoofd van een vrouw dat raadsels opgaf aan reizigers."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Pegasus",
-    "explanation": "Het gevleugelde witte paard dat ontstond uit het bloed van Medusa."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Chiron",
-    "explanation": "De wijze Centaur die vele helden, waaronder Achilles en Jason, trainde."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hydra",
-    "explanation": "Het meerkoppige slangachtige monster waarbij voor elke afgehakte kop er twee nieuwe aangroeiden."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Gulden Vlies",
-    "explanation": "De gouden vacht van een ram die door Jason en de Argonauten werd gezocht."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Argonauten",
-    "explanation": "De groep helden die met het schip de Argo meevoeren op zoek naar het Gulden Vlies."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Romulus en Remus",
-    "explanation": "De tweelingbroers die werden opgevoed door een wolvin en de stichters waren van Rome."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Nike",
-    "explanation": "De Griekse godin van de overwinning, vaak afgebeeld met vleugels (Victoria bij de Romeinen)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Kronos",
-    "explanation": "De Titaan en vader van de Olympische goden die zijn eigen kinderen opbrak om te voorkomen dat ze hem zouden onttronen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Saturnus",
-    "explanation": "De Romeinse naam voor Kronos, de god van de landbouw en de tijd."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Gaia",
-    "explanation": "Moeder Aarde, de oergodin die ontstond uit de Chaos en de moeder van de Titanen is."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Oranos",
-    "explanation": "De personificatie van de hemel en de vader van de Titanen, die door zijn zoon Kronos werd gecastreerd."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Demeter",
-    "explanation": "De Griekse godin van de landbouw en de oogst, moeder van Persephone."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Ceres",
-    "explanation": "De Romeinse godin van het graan (waar ons woord 'cereals' vandaan komt)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hestia",
-    "explanation": "De Griekse godin van de huiselijke haard en de familie, die altijd op de Olympus bleef."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Vesta",
-    "explanation": "De Romeinse haardgodin, bekend van de priesteressen (Vestaalse maagden) die haar vuur brandend hielden."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Eros",
-    "explanation": "De Griekse god van de begeerte en de liefde, vaak afgebeeld als een gevleugelde jongeman."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Cupido",
-    "explanation": "De Romeinse liefdesgod met zijn pijl en boog."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Janus",
-    "explanation": "De Romeinse god met de twee gezichten, wachter van de poorten en de god van begin en einde (Januari)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Pan",
-    "explanation": "De Griekse god van de natuur en de herders, met de benen en hoorns van een geit."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hecate",
-    "explanation": "De godin van de toverkunst, de nacht en de kruispunten, vaak afgebeeld met drie lichamen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Iris",
-    "explanation": "De godin van de regenboog en boodschapper van de goden (vooral van Hera)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Thanatos",
-    "explanation": "De Griekse personificatie van de dood."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hypnos",
-    "explanation": "De god van de slaap en de vader van Morpheus."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Morpheus",
-    "explanation": "De god van de dromen die de vorm van mensen kan aannemen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Nemesis",
-    "explanation": "De godin van de vergelding en de wraak tegen degenen die zich schuldig maken aan hoogmoed (hubris)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Helios",
-    "explanation": "De Griekse zonnegod die elke dag met zijn strijdwagen langs de hemel rijdt."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Eos",
-    "explanation": "De godin van de dageraad (Aurora bij de Romeinen)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Oceanus",
-    "explanation": "De Titaan van de enorme wereldrivier die de aarde omringt."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Jason",
-    "explanation": "De leider van de Argonauten die het Gulden Vlies stal van koning Aeetes."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Medea",
-    "explanation": "De machtige tovenares die Jason hielp, maar later uit wraak haar eigen kinderen vermoordde."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Theseus",
-    "explanation": "De held van Athene die de Minotaurus versloeg met hulp van de draad van Ariadne."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Bellerophon",
-    "explanation": "De held die op het gevleugelde paard Pegasus de Chimera versloeg."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Chimera",
-    "explanation": "Een monster met de kop van een leeuw, het lichaam van een geit en de staart van een slang."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Atalanta",
-    "explanation": "De razendsnelle jaagster die alleen wilde trouwen met de man die haar kon verslaan in een hardloopwedstrijd."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Oedipus",
-    "explanation": "De man die onbewust zijn vader doodde en met zijn moeder trouwde, nadat hij het raadsel van de Sphinx oploste."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Agamemnon",
-    "explanation": "De aanvoerder van de Grieken in de Trojaanse oorlog, vermoord door zijn vrouw Clytemnestra bij zijn thuiskomst."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Menelaus",
-    "explanation": "De koning van Sparta en echtgenoot van Helena, wiens ontvoering de Trojaanse oorlog startte."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Helena van Troje",
-    "explanation": "De mooiste vrouw ter wereld; haar gezicht lanceerde duizend schepen."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hector",
-    "explanation": "De grootste held van Troje en zoon van koning Priamus, gedood door Achilles."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Paris",
-    "explanation": "De Trojaanse prins die Helena ontvoerde en Achilles in zijn hiel schoot."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Priamus",
-    "explanation": "De oude koning van Troje tijdens de oorlog."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Patroclus",
-    "explanation": "De beste vriend van Achilles, wiens dood Achilles dwong weer mee te vechten."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Aeneas",
-    "explanation": "De Trojaanse held die ontsnapte aan de brandende stad en de verre voorvader van de Romeinen werd."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Dido",
-    "explanation": "De koningin van Carthago die zelfmoord pleegde toen Aeneas haar verliet."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Penelope",
-    "explanation": "De trouwe vrouw van Odysseus die twintig jaar op hem wachtte en haar vrijers aan het lijntje hield."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Polyphemus",
-    "explanation": "De Cycloop (eenogige reus) die door Odysseus werd blindgestoken."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Sirenen",
-    "explanation": "Wezens die zeelieden met hun gezang verleidden om op de rotsen te pletter te slaan."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Satyr",
-    "explanation": "Een vrolijk en ondeugend natuurwezen, half mens en half bok (Faun bij de Romeinen)."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Dryade",
-    "explanation": "Een boomnimf wiens leven verbonden is aan een specifieke boom."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Naiade",
-    "explanation": "Een waternimf die in bronnen, rivieren of meren woont."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Drietand",
-    "explanation": "Het machtige wapen van Poseidon."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Orakel van Delphi",
-    "explanation": "De profetes van Apollo die in raadsels de toekomst voorspelde."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Erebus",
-    "explanation": "De personificatie van de duisternis en een regio in de onderwereld."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Amazones",
-    "explanation": "Een legendarisch volk van vrouwelijke krijgers."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hippolyta",
-    "explanation": "De koningin van de Amazones die haar gordel aan Hercules moest geven."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Augeasstallen",
-    "explanation": "De stallen die in dertig jaar niet waren schoongemaakt en door Hercules in één dag werden gereinigd."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Ajax de Grote",
-    "explanation": "De op één na sterkste Griekse held na Achilles, die zelfmoord pleegde na een ruzie over Achilles' harnas."
-  },
-  {
-    "category": "Mythologie",
-    "word": "Hubris",
-    "explanation": "Het Griekse woord voor overmoed of hoogmoed tegenover de goden, wat altijd gestraft wordt."
-  },
-  {
     "category": "90's & 00's Nostalgie",
     "word": "MSN Messenger",
     "explanation": "Hét chatprogramma van de jaren '00 waar je je naam veranderde in songteksten en 'nudges' stuurde om aandacht te trekken."
@@ -1612,7 +227,7 @@
   {
     "category": "90's & 00's Nostalgie",
     "word": "SugarBabes",
-    "explanation": "Nee, de Sugababes! De Britse meidengroep bekend van 'Push the Button'."
+    "explanation": "De Britse meidengroep (Sugababes) bekend van hits als 'Push the Button' en 'Round Round'."
   },
   {
     "category": "90's & 00's Nostalgie",
@@ -1761,283 +376,8 @@
   },
   {
     "category": "90's & 00's Nostalgie",
-    "word": "Sugababes",
-    "explanation": "Popgroep."
-  },
-  {
-    "category": "90's & 00's Nostalgie",
     "word": "Bratz",
     "explanation": "De poppen met de afneembare voeten (schoenen)."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Millennium Falcon",
-    "explanation": "De 'hunk of junk' van Han Solo die de Kessel Run in minder dan 12 parsecs deed."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Order 66",
-    "explanation": "Het geheime bevel van Palpatine om alle Jedi door hun eigen Clone Troopers te laten executeren."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Mace Windu",
-    "explanation": "De Jedi-meester met het unieke paarse lichtzwaard en de vechtstijl Vaapad."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Midichlorians",
-    "explanation": "De microscopische levensvormen in cellen die de gevoeligheid voor de Force bepalen."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Qui-Gon Jinn",
-    "explanation": "De eigenzinnige Jedi-meester die Anakin ontdekte en de weg naar onsterfelijkheid vond."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Coruscant",
-    "explanation": "De stad-planeet die het centrum vormt van het sterrenstelsel en de senaat huisvestte."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Darth Sidious",
-    "explanation": "De Sith-naam van Sheev Palpatine, de man achter de val van de Republiek."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Darth Maul",
-    "explanation": "De Sith met de hoorns en het dubbelzijdige rode lichtzwaard."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Count Dooku",
-    "explanation": "Darth Tyranus, de leider van de Separatisten met het gebogen handvat aan zijn zwaard."
-  },
-  {
-    "category": "Star Wars",
-    "word": "General Grievous",
-    "explanation": "De cyborg-generaal met vier armen die lichtzwaarden van gedode Jedi verzamelt."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Lando",
-    "explanation": "De charmante gokker en vriend van Han Solo die Cloud City bestuurde."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Tatooine",
-    "explanation": "De woestijnplaneet met twee zonnen waar Luke en Anakin opgroeiden."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Jabba the Hutt",
-    "explanation": "De enorme slak-achtige misdaadbaas van de Outer Rim."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Endor",
-    "explanation": "De bosmaan waar de Ewoks hielpen om het Keizerrijk te verslaan."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Ewoks",
-    "explanation": "De kleine, harige bewoners van Endor die met stenen en speren vochten."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Death Star",
-    "explanation": "Het ruimtestation ter grootte van een maan dat hele planeten kan vernietigen."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Star Destroyer",
-    "explanation": "De enorme driehoekige oorlogsschepen van de Imperial Navy."
-  },
-  {
-    "category": "Star Wars",
-    "word": "X-Wing",
-    "explanation": "Het belangrijkste rebellenschip met inklapbare vleugels, gebruikt door Luke Skywalker."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Kylo Ren",
-    "explanation": "Ben Solo, de zoon van Han en Leia die naar de Dark Side overstapte."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Rey Skywalker",
-    "explanation": "De scavenger van Jakku die de laatste Jedi werd."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Finn",
-    "explanation": "FN-2187, de Stormtrooper die deserteerde en zich bij de rebellen aansloot."
-  },
-  {
-    "category": "Star Wars",
-    "word": "R2-D2",
-    "explanation": "De dappere blauw-witte droid die in bijna elke belangrijke film aanwezig is."
-  },
-  {
-    "category": "Star Wars",
-    "word": "C-3PO",
-    "explanation": "De gouden protocol-droid die vloeiend meer dan zes miljoen vormen van communicatie spreekt."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Chewbacca",
-    "explanation": "De trouwe Wookiee-copiloot van Han Solo."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Naboo",
-    "explanation": "De prachtige planeet van Padmé Amidala en de Gungans."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Jar Jar Binks",
-    "explanation": "De onhandige Gungan die per ongeluk een rol speelde in de opkomst van het Keizerrijk."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Darth Plagueis",
-    "explanation": "De meester van Palpatine die volgens de legende leven kon creëren en de dood kon voorkomen."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Tusken Raiders",
-    "explanation": "De 'Sand People' op Tatooine die bekendstaan om hun agressie."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Jawa's",
-    "explanation": "De kleine wezens in bruine gewaden met gloeiende ogen die handelen in droids en schroot."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Sandcrawler",
-    "explanation": "Het enorme rijdende fort van de Jawa's."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Carbonite",
-    "explanation": "Het materiaal waarin Han Solo werd ingevroren om naar Jabba te worden gebracht."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Boba Fett",
-    "explanation": "De beroemdste premiejager die uit de Sarlacc ontsnapte en later de Daimyo van Tatooine werd."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Jango Fett",
-    "explanation": "De vader (en genetische bron) van alle clones en Boba Fett."
-  },
-  {
-    "category": "Star Wars",
-    "word": "The High Republic",
-    "explanation": "Het tijdperk honderden jaren voor de films, de gouden eeuw van de Jedi."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Dark Side",
-    "explanation": "De kant van de Force die gevoed wordt door emoties als woede, angst en haat."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Padawan",
-    "explanation": "De titel van een Jedi-leerling."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Jedi Knight",
-    "explanation": "De rang van een Jedi die zijn training heeft voltooid."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Jedi Master",
-    "explanation": "De hoogste rang binnen de Jedi-orde."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Blaster",
-    "explanation": "Het meest voorkomende vuurwapen dat rode of blauwe stralen afschiet."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Outer Rim",
-    "explanation": "De rand van het sterrenstelsel waar de wet minder streng is."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Jedi Mind Trick",
-    "explanation": "‘These are not the droids you are looking for’."
-  },
-  {
-    "category": "Star Wars",
-    "word": "The Force Awakens",
-    "explanation": "De titel van Episode VII."
-  },
-  {
-    "category": "Star Wars",
-    "word": "The Last Jedi",
-    "explanation": "De titel van Episode VIII."
-  },
-  {
-    "category": "Star Wars",
-    "word": "The Rise of Skywalker",
-    "explanation": "De titel van Episode IX."
-  },
-  {
-    "category": "Star Wars",
-    "word": "A New Hope",
-    "explanation": "De titel van Episode IV."
-  },
-  {
-    "category": "Star Wars",
-    "word": "The Empire Strikes Back",
-    "explanation": "De titel van Episode V."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Return of the Jedi",
-    "explanation": "De titel van Episode VI."
-  },
-  {
-    "category": "Star Wars",
-    "word": "The Phantom Menace",
-    "explanation": "De titel van Episode I."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Attack of the Clones",
-    "explanation": "De titel van Episode II."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Revenge of the Sith",
-    "explanation": "De titel van Episode III."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Rogue One",
-    "explanation": "De eerste Star Wars Story film over de diefstal van de Death Star plannen."
-  },
-  {
-    "category": "Star Wars",
-    "word": "Alderaan",
-    "explanation": "De planeet van prinses Leia die door de Death Star werd vernietigd."
-  },
-  {
-    "category": "Star Wars",
-    "word": "May the Force be with you",
-    "explanation": "De bekendste groet van de Jedi."
-  },
-  {
-    "category": "Star Wars",
-    "word": "I am your father",
-    "explanation": "De grootste plottwist in de filmgeschiedenis."
   },
   {
     "category": "Marvel",
@@ -2410,419 +750,1134 @@
     "explanation": "De thuisbasis van de Nova Corps, die werd vernietigd door Thanos voor de Power Stone."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Albert Einstein",
-    "explanation": "De genie achter de relativiteitstheorie en de man die bewees dat massa en energie uitwisselbaar zijn."
+    "category": "Nintendo",
+    "word": "NES",
+    "explanation": "De console die de game-industrie in de jaren '80 redde, in Japan bekend als de Famicom."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Isaac Newton",
-    "explanation": "De man van de vallende appel, de zwaartekrachtwetten en de drie wetten van de mechanica."
+    "category": "Nintendo",
+    "word": "Super Nintendo (SNES)",
+    "explanation": "De 16-bit opvolger van de NES, beroemd om games als Super Mario World en F-Zero."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Stephen Hawking",
-    "explanation": "De kosmoloog die zwarte gaten onderzocht en schreef over de 'oerknal' vanuit zijn rolstoel."
+    "category": "Nintendo",
+    "word": "Nintendo 64",
+    "explanation": "De console die 3D-gaming perfectioneerde met een controller die drie handvatten had."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Marie Curie",
-    "explanation": "De ontdekster van radium en polonium, en de eerste vrouw die twee Nobelprijzen won."
+    "category": "Nintendo",
+    "word": "GameCube",
+    "explanation": "De paarse console in de vorm van een kubus met een handvat aan de achterkant."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Niels Bohr",
-    "explanation": "De Deen die het atoommodel met schillen bedacht waarin elektronen rond de kern draaien."
+    "category": "Nintendo",
+    "word": "Wii",
+    "explanation": "De revolutionaire console die iedereen aan het bewegen kreeg met de Wii Remote."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Heisenberg",
-    "explanation": "Grondlegger van de kwantummechanica, bekend om zijn 'onzekerheidsrelatie'."
+    "category": "Nintendo",
+    "word": "Nintendo Switch",
+    "explanation": "De hybride console die je zowel op de tv als onderweg kunt gebruiken."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Schrödinger",
-    "explanation": "Beroemd om zijn gedachte-experiment met een kat in een doos die tegelijk dood en levend is."
+    "category": "Nintendo",
+    "word": "Game Boy",
+    "explanation": "De iconische grijze handheld die de wereld veroverde met Tetris."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Feynman",
-    "explanation": "De speelse Nobelprijswinnaar die kwantumelektrodynamica uitlegde met simpele diagrammen."
+    "category": "Nintendo",
+    "word": "Virtual Boy",
+    "explanation": "Nintendo's grootste hardware-flop; een rode VR-bril die je op een standaard moest zetten."
   },
   {
-    "category": "Natuurkunde",
+    "category": "Nintendo",
+    "word": "Mario",
+    "explanation": "De Italiaanse loodgieter die vroeger Jumpman heette en de mascotte van het bedrijf is."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Luigi",
+    "explanation": "De langere, groen geklede broer van Mario die vaak de hoofdrol speelt in spookhuizen."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Bowser",
+    "explanation": "Koning Koopa; de aartsvijand van Mario die constant prinses Peach ontvoert."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Prinses Peach",
+    "explanation": "De heerseres van het Paddenstoelenrijk die een roze jurk draagt."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Yoshi",
+    "explanation": "De groene dinosauriër die Mario op zijn rug draagt en vijanden opeet met zijn tong."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Wario",
+    "explanation": "De hebzuchtige en dikke rivaal van Mario met een gele muts en een grote neus."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Waluigi",
+    "explanation": "De lange, dunne partner van Wario die tot frustratie van fans vaak ontbreekt in Smash Bros."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Rosalina",
+    "explanation": "De beschermster van de sterren (Luma's) uit de Super Mario Galaxy-games."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Toad",
+    "explanation": "De kleine bewoner van het Paddenstoelenrijk met een paddenstoelenhoed."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Goomba",
+    "explanation": "De bruine, paddenstoel-achtige vijand waar Mario bovenop moet springen."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Koopa Troopa",
+    "explanation": "De schildpad-vijanden waarvan je het schild kunt wegschoppen."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Piranha Plant",
+    "explanation": "De happende planten die uit de groene buizen (Warp Pipes) komen."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Link",
+    "explanation": "De held van Hyrule die de Triforce van Moed bezit (en géén Zelda heet)."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Prinses Zelda",
+    "explanation": "De titulaire prinses van de legendarische reeks, bezit de Triforce van Wijsheid."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Samus",
+    "explanation": "De premiejager uit de Metroid-serie die onder haar helm een vrouw bleek te zijn."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Ridley",
+    "explanation": "De ruimte-piraat en aartsvijand van Samus, die lijkt op een skeletachtige draak."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Metroid",
+    "explanation": "De kwal-achtige wezens die energie uit hun slachtoffers zuigen."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Donkey Kong",
+    "explanation": "De stropdas-dragende gorilla die ooit begon als de ontvoerder van Pauline."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Diddy Kong",
+    "explanation": "De kleine neef van Donkey Kong met het rode petje en pindapistolen."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Kirby",
+    "explanation": "De roze bol uit Dream Land die vijanden inslikt om hun krachten te kopiëren."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Fox",
+    "explanation": "De leider van het Star Fox team, bekend van de uitspraak 'Do a barrel roll!'."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Falco",
+    "explanation": "De arrogante maar briljante piloot en vogel in het Star Fox team."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Arwing",
+    "explanation": "Het iconische ruimteschip van het Star Fox team."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Captain Falcon",
+    "explanation": "De coureur uit F-Zero die vooral bekend is door zijn 'Falcon Punch' in Smash Bros."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Ness",
+    "explanation": "De jongen met de honkbalknuppel uit EarthBound (Mother 2)."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Marth",
+    "explanation": "De blauwharige prins en zwaardvechter uit de Fire Emblem-reeks."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Super Smash Bros.",
+    "explanation": "De vechtgame waarin alle personages van Nintendo (en daarbuiten) het tegen elkaar opnemen."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Mario Kart",
+    "explanation": "De populairste race-game waarin je voorwerpen naar je tegenstanders gooit."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Blue Shell",
+    "explanation": "Het meest gevreesde voorwerp in Mario Kart dat de koploper aanvalt."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Rainbow Road",
+    "explanation": "De beruchte kleurrijke baan in de ruimte die in bijna elke Mario Kart voorkomt."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Lakitu",
+    "explanation": "De Koopa op een wolkje die de race start en je uit de afgrond vist."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Dr. Mario",
+    "explanation": "De puzzelgame waarin Mario als arts vitamines op virussen gooit."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Paper Mario",
+    "explanation": "De RPG-serie waarin Mario en zijn wereld volledig van papier zijn gemaakt."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Super Mario 64",
+    "explanation": "De game die liet zien hoe een platformer in 3D moet werken."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Ocarina of Time",
+    "explanation": "De legendarische Zelda-game waarin tijdreizen en muziek centraal staan."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Majora's Mask",
+    "explanation": "De duistere Zelda-game waarin je maar drie dagen hebt om de wereld te redden."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Breath of the Wild",
+    "explanation": "De open-wereld game die de Zelda-formule volledig veranderde op de Switch."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Tetris",
+    "explanation": "De puzzelgame die de Game Boy tot een wereldsucces maakte."
+  },
+  {
+    "category": "Nintendo",
+    "word": "The Legend of Zelda",
+    "explanation": "De volledige naam van de avonturenreeks."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Game Boy Advance",
+    "explanation": "De 32-bit opvolger van de Game Boy Color, herkenbaar aan de horizontale vorm."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Nintendo DS",
+    "explanation": "De handheld met twee schermen en een touchscreen."
+  },
+  {
+    "category": "Nintendo",
+    "word": "Mario Party",
+    "explanation": "De beruchte vriendschap-verwoestende bordspel-game met minigames."
+  },
+  {
+    "category": "Nintendo",
+    "word": "It's-a me!",
+    "explanation": "De beroemdste begroeting uit de geschiedenis van videogames."
+  },
+  {
+    "category": "Ajax",
+    "word": "Johan Cruijff",
+    "explanation": "De grootste Ajax-speler aller tijden, drager van nummer 14 en de architect van het totaalvoetbal."
+  },
+  {
+    "category": "Ajax",
+    "word": "Sjaak Swart",
+    "explanation": "Mister Ajax, de speler met de meeste officiële wedstrijden (603) voor de club."
+  },
+  {
+    "category": "Ajax",
+    "word": "Piet Keizer",
+    "explanation": "De linksbuiten van het gouden elftal, bekend om zijn legendarische schijnbewegingen."
+  },
+  {
+    "category": "Ajax",
+    "word": "Rinus Michels",
+    "explanation": "De 'Generaal', de trainer die Ajax en Nederland wereldberoemd maakte met aanvallend voetbal."
+  },
+  {
+    "category": "Ajax",
+    "word": "Louis van Gaal",
+    "explanation": "De trainer die in 1995 met een piepjong team de Champions League won."
+  },
+  {
+    "category": "Ajax",
+    "word": "De Meer",
+    "explanation": "Het iconische, knusse stadion in Watergraafsmeer waar Ajax van 1934 tot 1996 speelde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Johan Cruijff ArenA",
+    "explanation": "De huidige thuishaven, voorheen bekend als de Amsterdam ArenA."
+  },
+  {
+    "category": "Ajax",
+    "word": "De Toekomst",
+    "explanation": "Het beroemde jeugdcomplex van Ajax waar talenten worden klaargestoomd voor het eerste."
+  },
+  {
+    "category": "Ajax",
+    "word": "Abdelhak Nouri",
+    "explanation": "Appie; het enorme talent met rugnummer 34 wiens carrière tragisch eindigde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Nummer 14",
+    "explanation": "Het rugnummer dat Ajax ter ere van Johan Cruijff officieel heeft teruggetrokken."
+  },
+  {
+    "category": "Ajax",
+    "word": "Marco van Basten",
+    "explanation": "De 'San Marco', topspits die drie Gouden Ballen won en op jonge leeftijd stopte door een enkelblessure."
+  },
+  {
+    "category": "Ajax",
+    "word": "Frank Rijkaard",
+    "explanation": "De man die als ervaren kracht terugkeerde om in 1995 de beker met de grote oren te winnen."
+  },
+  {
+    "category": "Ajax",
+    "word": "Dennis Bergkamp",
+    "explanation": "De 'Non-Flying Dutchman', een technisch genie op de nummer 10 positie."
+  },
+  {
+    "category": "Ajax",
+    "word": "Jari Litmanen",
+    "explanation": "De Finse publiekslieveling die in de jaren '90 uitgroeide tot de koning van de nummer 10 positie."
+  },
+  {
+    "category": "Ajax",
+    "word": "Edwin van der Sar",
+    "explanation": "De keeper uit 1995 en latere algemeen directeur van de club."
+  },
+  {
+    "category": "Ajax",
+    "word": "Danny Blind",
+    "explanation": "De aanvoerder in 1995 die alles won wat er met een club te winnen valt."
+  },
+  {
+    "category": "Ajax",
+    "word": "Patrick Kluivert",
+    "explanation": "De 18-jarige invaller die in 1995 de winnende treffer scoorde in de CL-finale tegen AC Milan."
+  },
+  {
+    "category": "Ajax",
+    "word": "Marc Overmars",
+    "explanation": "De razendsnelle 'Tuitut' van de jaren '90 en latere technisch directeur."
+  },
+  {
+    "category": "Ajax",
+    "word": "Clarence Seedorf",
+    "explanation": "Het toptalent dat op 16-jarige leeftijd debuteerde en vier keer de Champions League won."
+  },
+  {
+    "category": "Ajax",
+    "word": "Edgar Davids",
+    "explanation": "De 'Pitbull' op het middenveld, bekend om zijn agressieve spel en sportbril."
+  },
+  {
+    "category": "Ajax",
+    "word": "Luis Suárez",
+    "explanation": "De Uruguayaanse topspits die bij Ajax aan de lopende band scoorde en aanvoerder was."
+  },
+  {
+    "category": "Ajax",
+    "word": "Zlatan Ibrahimović",
+    "explanation": "De Zweedse ster die bij Ajax zijn internationale doorbraak beleefde met een solo tegen NAC."
+  },
+  {
+    "category": "Ajax",
+    "word": "Dušan Tadić",
+    "explanation": "De leider van het elftal dat in 2019 de wereld verbaasde door Real Madrid en Juventus uit te schakelen."
+  },
+  {
+    "category": "Ajax",
+    "word": "Erik ten Hag",
+    "explanation": "De trainer die Ajax na jaren weer terugbracht naar de absolute top van Europa."
+  },
+  {
+    "category": "Ajax",
+    "word": "Klaas-Jan Huntelaar",
+    "explanation": "The Hunter, de spits die altijd op de juiste plek stond en twee periodes bij Ajax diende."
+  },
+  {
+    "category": "Ajax",
+    "word": "Wesley Sneijder",
+    "explanation": "Het toptalent uit de Utrechtse wijk Ondiep dat uitgroeide tot een wereldster."
+  },
+  {
+    "category": "Ajax",
+    "word": "Rafael van der Vaart",
+    "explanation": "De blonde spelmaker die op jonge leeftijd al aanvoerder was en bekendstond om zijn fluwelen techniek."
+  },
+  {
+    "category": "Ajax",
+    "word": "Jan Vertonghen",
+    "explanation": "De Belgische verdediger die met zijn passie en goals een icoon werd in Amsterdam."
+  },
+  {
+    "category": "Ajax",
+    "word": "Toby Alderweireld",
+    "explanation": "De rustige Belgische verdediger die samen met Vertonghen een onpasseerbaar duo vormde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Christian Eriksen",
+    "explanation": "De Deense spelmaker die doorbrak onder Frank de Boer en Ajax naar meerdere titels hielp."
+  },
+  {
+    "category": "Ajax",
+    "word": "Frank de Boer",
+    "explanation": "De trainer die Ajax vier keer op rij landskampioen maakte."
+  },
+  {
+    "category": "Ajax",
+    "word": "Matthijs de Ligt",
+    "explanation": "De jongste aanvoerder ooit in een halve finale van de Champions League."
+  },
+  {
+    "category": "Ajax",
+    "word": "Frenkie de Jong",
+    "explanation": "De middenvelder met de weergaloze dribbel die Ajax 86 miljoen euro opleverde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Hakim Ziyech",
+    "explanation": "De 'Wizard of AMS' die met zijn vlijmscherpe passes het publiek in vervoering bracht."
+  },
+  {
+    "category": "Ajax",
+    "word": "André Onana",
+    "explanation": "De Kameroense doelman die jarenlang de onbetwiste nummer één was."
+  },
+  {
+    "category": "Ajax",
+    "word": "Lasse Schöne",
+    "explanation": "De Deense vrijetrappenspecialist met de meeste wedstrijden voor een buitenlandse Ajax-speler."
+  },
+  {
+    "category": "Ajax",
+    "word": "Daley Blind",
+    "explanation": "De zoon van Danny, bekend om zijn spelinzicht en crosspasses."
+  },
+  {
+    "category": "Ajax",
+    "word": "Brian Brobbey",
+    "explanation": "De oersterke spits uit de eigen jeugd die bekendstaat om zijn fysieke kracht."
+  },
+  {
+    "category": "Ajax",
+    "word": "Steven Berghuis",
+    "explanation": "De creatieve middenvelder die de gevoelige overstap maakte van Feyenoord naar Ajax."
+  },
+  {
+    "category": "Ajax",
+    "word": "Jordan Henderson",
+    "explanation": "De ervaren Engelse middenvelder en voormalig Liverpool-kapitein die in 2024 naar Ajax kwam."
+  },
+  {
+    "category": "Ajax",
+    "word": "Francesco Farioli",
+    "explanation": "De jonge Italiaanse trainer die in 2024 werd aangesteld om Ajax weer op te bouwen."
+  },
+  {
+    "category": "Ajax",
+    "word": "Peter Bosz",
+    "explanation": "De trainer die in 2017 de finale van de Europa League haalde met extreem aanvallend voetbal."
+  },
+  {
+    "category": "Ajax",
+    "word": "Europa Cup I 1971",
+    "explanation": "De eerste grote Europese prijs, gewonnen op Wembley tegen Panathinaikos."
+  },
+  {
+    "category": "Ajax",
+    "word": "Europa Cup I 1972",
+    "explanation": "De tweede op rij, gewonnen in De Kuip tegen Inter Milan door twee goals van Cruijff."
+  },
+  {
+    "category": "Ajax",
+    "word": "Europa Cup I 1973",
+    "explanation": "De hattrick compleet door Juventus te verslaan in Belgrado."
+  },
+  {
+    "category": "Ajax",
+    "word": "Champions League 1995",
+    "explanation": "De laatste keer dat Ajax de grootste prijs van Europa won, in Wenen."
+  },
+  {
+    "category": "Ajax",
+    "word": "Wereldbeker 1995",
+    "explanation": "Gewonnen in Tokio tegen Grêmio na een zenuwslopende penaltyserie."
+  },
+  {
+    "category": "Ajax",
+    "word": "UEFA Cup 1992",
+    "explanation": "De winst over twee wedstrijden tegen Torino onder Louis van Gaal."
+  },
+  {
+    "category": "Ajax",
+    "word": "Europacup II 1987",
+    "explanation": "De winst in Athene tegen Lokomotiv Leipzig door een kopbal van Van Basten."
+  },
+  {
+    "category": "Ajax",
+    "word": "De Klassieker",
+    "explanation": "De beladen wedstrijd tegen aartsrivaal Feyenoord."
+  },
+  {
+    "category": "Ajax",
+    "word": "De Topper",
+    "explanation": "De wedstrijd tussen de twee meest succesvolle clubs van Nederland: Ajax en PSV."
+  },
+  {
+    "category": "Ajax",
+    "word": "F-Side",
+    "explanation": "De fanatieke harde kern van Ajax, vernoemd naar vak F in stadion De Meer."
+  },
+  {
+    "category": "Ajax",
+    "word": "Vak 410",
+    "explanation": "De voormalige sfeergroep die bekendstond om hun grote vlaggen en trommels."
+  },
+  {
+    "category": "Ajax",
+    "word": "Lucky",
+    "explanation": "De officiële mascotte van de club, de witte lynx."
+  },
+  {
+    "category": "Ajax",
+    "word": "Godenzonen",
+    "explanation": "De meest gebruikte bijnaam voor de spelers van Ajax."
+  },
+  {
+    "category": "Ajax",
+    "word": "Mijn club",
+    "explanation": "De titel van het beroemde liedje van Harry Slinger over Ajax."
+  },
+  {
+    "category": "Ajax",
+    "word": "Drie sterren",
+    "explanation": "De sterren op het shirt die staan voor de meer dan 30 behaalde landstitels."
+  },
+  {
+    "category": "Ajax",
+    "word": "Bobby Haarms",
+    "explanation": "De 'Goede Beul', de assistent-trainer die geblesseerde spelers genadeloos fit maakte."
+  },
+  {
+    "category": "Ajax",
+    "word": "David Endt",
+    "explanation": "De voormalige teammanager en het geweten van de club."
+  },
+  {
+    "category": "Ajax",
+    "word": "Sjaak Wolfs",
+    "explanation": "De iconische materiaalman die decennialang voor de spelers zorgde."
+  },
+  {
+    "category": "Ajax",
+    "word": "1900",
+    "explanation": "Het jaar waarin Floris Stempel, Han Dade en Carel Reeser de club oprichtten."
+  },
+  {
+    "category": "Ajax",
+    "word": "Olympisch Stadion",
+    "explanation": "Het stadion waar Ajax de grote Europese avonden speelde voordat de ArenA bestond."
+  },
+  {
+    "category": "Ajax",
+    "word": "Mistwedstrijd",
+    "explanation": "De legendarische wedstrijd in 1966 tegen Liverpool die Ajax met 5-1 won in dichte mist."
+  },
+  {
+    "category": "Ajax",
+    "word": "Staafincident",
+    "explanation": "Het dieptepunt in 1989 waarbij een staaf vanuit het publiek op de Oostenrijkse keeper Lahnert werd gegooid."
+  },
+  {
+    "category": "Ajax",
+    "word": "Museumplein",
+    "explanation": "De plek waar Ajax traditioneel gehuldigd werd bij het behalen van de titel."
+  },
+  {
+    "category": "Ajax",
+    "word": "Leidseplein",
+    "explanation": "De plek waar vroeger de balkonscènes plaatsvonden na grote successen."
+  },
+  {
+    "category": "Ajax",
+    "word": "De Dennenappel",
+    "explanation": "De bijnaam voor de KNVB-beker vanwege zijn vorm."
+  },
+  {
+    "category": "Ajax",
+    "word": "De schaal",
+    "explanation": "De trofee die wordt uitgereikt aan de kampioen van Nederland."
+  },
+  {
+    "category": "Ajax",
+    "word": "Hennie Spijkerman",
+    "explanation": "De trouwe assistent-trainer onder andere Frank de Boer."
+  },
+  {
+    "category": "Ajax",
+    "word": "Christian Poulsen",
+    "explanation": "De Deense controleur die na zijn carrière terugkeerde als assistent-trainer."
+  },
+  {
+    "category": "Ajax",
+    "word": "Mitchell van der Gaag",
+    "explanation": "De assistent van Erik ten Hag die mee naar Manchester United verhuisde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Richard Witschge",
+    "explanation": "De techniektrainer en oud-speler die de bal hoog hield tijdens een Klassieker."
+  },
+  {
+    "category": "Ajax",
+    "word": "Gerald Vanenburg",
+    "explanation": "Vaantje; een van de technisch meest begaafde Ajax-spelers ooit."
+  },
+  {
+    "category": "Ajax",
+    "word": "Arnold Mühren",
+    "explanation": "De stijlvolle middenvelder die zowel de Europacup I als de Europacup II won met Ajax."
+  },
+  {
+    "category": "Ajax",
+    "word": "Wim Suurbier",
+    "explanation": "De rechtsback van het gouden elftal en een van de grootste grappenmakers van de club."
+  },
+  {
+    "category": "Ajax",
+    "word": "Ruud Krol",
+    "explanation": "De verdediger die het record van de meeste Eredivisiewedstrijden voor Ajax in handen heeft."
+  },
+  {
+    "category": "Ajax",
+    "word": "Barry Hulshoff",
+    "explanation": "De robuuste verdediger met de lange baard uit het succesteam van de jaren '70."
+  },
+  {
+    "category": "Ajax",
+    "word": "Gerrie Mühren",
+    "explanation": "Bekend om het hooghouden van de bal in het Bernabéu tijdens de halve finale tegen Real Madrid."
+  },
+  {
+    "category": "Ajax",
+    "word": "Johnny Rep",
+    "explanation": "De 'blonde engel' die in 1973 de winnende goal scoorde in de Europacup I-finale."
+  },
+  {
+    "category": "Ajax",
+    "word": "Arie Haan",
+    "explanation": "Middenvelder met een verwoestend afstandsschot."
+  },
+  {
+    "category": "Ajax",
+    "word": "Velibor Vasović",
+    "explanation": "De eerste buitenlandse aanvoerder van Ajax die de Europacup I omhoog mocht houden."
+  },
+  {
+    "category": "Ajax",
+    "word": "Stefan Kovács",
+    "explanation": "De Roemeense trainer die de vrije Ajax-geest van de jaren '70 koesterde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Leo Beenhakker",
+    "explanation": "Don Leo; de trainer die Ajax twee keer naar de landstitel leidde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Ronald Koeman",
+    "explanation": "Behaalde de kwartfinale van de CL in 2003 met een team vol jonge sterren."
+  },
+  {
+    "category": "Ajax",
+    "word": "Michael van Praag",
+    "explanation": "De zoon van Jaap, voorzitter tijdens de successen in de jaren '90."
+  },
+  {
+    "category": "Ajax",
+    "word": "Alex Kroes",
+    "explanation": "De huidige technische man van de club (2024)."
+  },
+  {
+    "category": "Ajax",
+    "word": "Jorrel Hato",
+    "explanation": "Het jonge verdedigende toptalent dat op 17-jarige leeftijd al aanvoerder was."
+  },
+  {
+    "category": "Ajax",
+    "word": "Remko Pasveer",
+    "explanation": "De ervaren doelman die op late leeftijd nog zijn debuut maakte in Oranje als Ajax-speler."
+  },
+  {
+    "category": "Ajax",
+    "word": "Kenneth Taylor",
+    "explanation": "De middenvelder uit de eigen opleiding die een vaste waarde werd in het eerste."
+  },
+  {
+    "category": "Ajax",
+    "word": "Mika Godts",
+    "explanation": "De jonge Belgische vleugelspeler met de kenmerkende passeeractie."
+  },
+  {
+    "category": "Ajax",
+    "word": "Wout Weghorst",
+    "explanation": "De spits die in 2024 naar Ajax kwam voor zijn passie en winnaarsmentaliteit."
+  },
+  {
+    "category": "Ajax",
+    "word": "Davy Klaassen",
+    "explanation": "Mister 1-0; de middenvelder die altijd op de juiste plek stond voor de openingsgoal."
+  },
+  {
+    "category": "Ajax",
+    "word": "Nicolas Tagliafico",
+    "explanation": "De strijdlustige Argentijnse linksback die de harten van de fans stal."
+  },
+  {
+    "category": "Ajax",
+    "word": "Lisandro Martínez",
+    "explanation": "The Butcher; de kleine maar meedogenloze Argentijnse verdediger."
+  },
+  {
+    "category": "Ajax",
+    "word": "Antony",
+    "explanation": "De Braziliaanse dribbelkoning die voor bijna 100 miljoen naar Manchester United vertrok."
+  },
+  {
+    "category": "Ajax",
+    "word": "Sébastien Haller",
+    "explanation": "De spits die in zijn eerste CL-seizoen in bijna elke wedstrijd scoorde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Donny van de Beek",
+    "explanation": "De 'Marathonman' van het team uit 2019."
+  },
+  {
+    "category": "Ajax",
+    "word": "David Neres",
+    "explanation": "De Braziliaanse vleugelspeler die scoorde in de legendarische 1-4 tegen Real Madrid."
+  },
+  {
+    "category": "Ajax",
+    "word": "Nemanja Gudelj",
+    "explanation": "Middenvelder bekend om zijn vrije trappen en vele tatoeages."
+  },
+  {
+    "category": "Ajax",
+    "word": "Arkadiusz Milik",
+    "explanation": "De Poolse spits die onder Frank de Boer topscorer werd."
+  },
+  {
+    "category": "Ajax",
+    "word": "Davinson Sánchez",
+    "explanation": "De ijzersterke Colombiaanse verdediger die na één jaar voor een recordbedrag vertrok."
+  },
+  {
+    "category": "Ajax",
+    "word": "Amin Younes",
+    "explanation": "De kleine Duitse dribbelaar die de verdediging van Schalke 04 horendol maakte."
+  },
+  {
+    "category": "Ajax",
+    "word": "Ryan Gravenberch",
+    "explanation": "Het fysiek sterke toptalent dat op 16-jarige leeftijd debuteerde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Devyne Rensch",
+    "explanation": "De veelzijdige verdediger uit de eigen jeugdopleiding."
+  },
+  {
+    "category": "Ajax",
+    "word": "Jurriën Timber",
+    "explanation": "De technisch begaafde verdediger die moeiteloos inschoof op het middenveld."
+  },
+  {
+    "category": "Ajax",
+    "word": "Mohammed Kudus",
+    "explanation": "De Ghanese smaakmaker met een fabelachtige techniek."
+  },
+  {
+    "category": "Ajax",
+    "word": "Edson Álvarez",
+    "explanation": "De Mexicaanse stofzuiger op het middenveld."
+  },
+  {
+    "category": "Ajax",
+    "word": "Youri Baas",
+    "explanation": "De verdediger die onder Farioli verrassend doorbrak als centrale verdediger."
+  },
+  {
+    "category": "Ajax",
+    "word": "Fitz-Jim",
+    "explanation": "De lichte, technische middenvelder met de goede steekpass."
+  },
+  {
+    "category": "Ajax",
+    "word": "Kristian Hlynsson",
+    "explanation": "De IJslandse middenvelder uit de eigen opleiding."
+  },
+  {
+    "category": "Ajax",
+    "word": "John van 't Schip",
+    "explanation": "De clubman die in een moeilijke periode instapte als interim-trainer."
+  },
+  {
+    "category": "Ajax",
+    "word": "Maurice Steijn",
+    "explanation": "De trainer onder wie Ajax historisch laag op de ranglijst stond (18e)."
+  },
+  {
+    "category": "Ajax",
+    "word": "Sven Mislintat",
+    "explanation": "De technische man die verantwoordelijk was voor de veelbesproken aankopen van 2023."
+  },
+  {
+    "category": "Ajax",
+    "word": "Alfred Schreuder",
+    "explanation": "De opvolger van Erik ten Hag die het seizoen niet mocht afmaken."
+  },
+  {
+    "category": "Ajax",
+    "word": "Henk ten Cate",
+    "explanation": "De trainer die de beker won en bijna kampioen werd in 2007."
+  },
+  {
+    "category": "Ajax",
+    "word": "Co Adriaanse",
+    "explanation": "De man van de 'scorebordjournalistiek' en het 'kerstboomsysteem'."
+  },
+  {
+    "category": "Ajax",
+    "word": "Martin Jol",
+    "explanation": "De trainer onder wie Ajax meer dan 100 goals scoorde in één seizoen maar geen kampioen werd."
+  },
+  {
+    "category": "Ajax",
+    "word": "Frank Arnesen",
+    "explanation": "De Deense middenvelder die in de jaren '70 en '80 voor Ajax speelde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Jesper Olsen",
+    "explanation": "De 'vlo' op de vleugel uit de jaren '80."
+  },
+  {
+    "category": "Ajax",
+    "word": "Søren Lerby",
+    "explanation": "De Deen met de afgezakte kousen en de enorme winnaarsmentaliteit."
+  },
+  {
+    "category": "Ajax",
+    "word": "Stefan Pettersson",
+    "explanation": "De Zweedse spits die bekendstond als een echte heer op en buiten het veld."
+  },
+  {
+    "category": "Ajax",
+    "word": "Shota Arveladze",
+    "explanation": "De Georgische spits die razend populair was bij de fans."
+  },
+  {
+    "category": "Ajax",
+    "word": "Nwankwo Kanu",
+    "explanation": "De lange, slungelige maar geniale technicus uit de jaren '90."
+  },
+  {
+    "category": "Ajax",
+    "word": "Finidi George",
+    "explanation": "De man van de loepzuivere voorzetten vanaf de rechterflank."
+  },
+  {
+    "category": "Ajax",
+    "word": "Winston Bogarde",
+    "explanation": "De onverzettelijke verdediger die later als assistent de defensie trainde."
+  },
+  {
+    "category": "Ajax",
+    "word": "Michael Reiziger",
+    "explanation": "De vaste rechtsback van het gouden team en latere coach van Jong Ajax."
+  },
+  {
+    "category": "Ajax",
+    "word": "Tomas Galasek",
+    "explanation": "De betrouwbare Tsjechische controleur."
+  },
+  {
+    "category": "Ajax",
+    "word": "Cristian Chivu",
+    "explanation": "De Roemeense verdediger die aanvoerder werd en een geweldige traptechniek had."
+  },
+  {
+    "category": "Ajax",
+    "word": "Hatem Trabelsi",
+    "explanation": "De Tunesische rechtsback die de hele flank bestreek."
+  },
+  {
+    "category": "Ajax",
     "word": "Maxwell",
-    "explanation": "De man die elektriciteit en magnetisme verenigde in vier beroemde vergelijkingen."
+    "explanation": "De stijlvolle Braziliaanse linksback en beste vriend van Zlatan."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Tesla",
-    "explanation": "De visionair achter de wisselstroom (AC) en de Tesla-spoel."
+    "category": "Ajax",
+    "word": "Urby Emanuelson",
+    "explanation": "De veelzijdige speler die de hele linkerkant kon bestrijken."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Faraday",
-    "explanation": "De ontdekker van elektromagnetische inductie; zonder hem hadden we geen dynamo's."
+    "category": "Ajax",
+    "word": "Siem de Jong",
+    "explanation": "De man van de twee goals in de kampioenswedstrijd tegen FC Twente op 15 mei."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Planck",
-    "explanation": "De vader van de kwantumtheorie die ontdekte dat energie in 'pakketjes' (quanta) komt."
+    "category": "Ajax",
+    "word": "Demy de Zeeuw",
+    "explanation": "Middenvelder die een schop in zijn gezicht kreeg in de WK-halve finale als Ajax-speler."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Galileo Galilei",
-    "explanation": "De astronoom die door zijn telescoop zag dat de aarde om de zon draait en niet andersom."
+    "category": "Ajax",
+    "word": "Eyong Enoh",
+    "explanation": "De stofzuiger uit Kameroen die altijd bleef gaan."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Oppenheimer",
-    "explanation": "De wetenschappelijk leider van het Manhattanproject en de 'vader van de atoombom'."
+    "category": "Ajax",
+    "word": "Thulani Serero",
+    "explanation": "De kleine behendige Zuid-Afrikaan die scoorde tegen Barcelona."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Lorentz",
-    "explanation": "Nederlandse Nobelprijswinnaar wiens transformaties essentieel waren voor Einstein."
+    "category": "Ajax",
+    "word": "Arek Milik",
+    "explanation": "De Poolse spits die in het seizoen 2014/15 veel goals maakte voor Ajax."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Huygens",
-    "explanation": "De Nederlander die de golftheorie van het licht bedacht en de ringen van Saturnus ontdekte."
+    "category": "Ajax",
+    "word": "Amin Younes",
+    "explanation": "De Duitse dribbelaar die uitblonk met versnellingen en acties vanaf links."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Boltzmann",
-    "explanation": "De man die thermodynamica verbond aan statistiek en atoomtheorie."
+    "category": "Ajax",
+    "word": "Kasper Dolberg",
+    "explanation": "De ijskoude Deense spits die doorbrak onder Peter Bosz."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Fermi",
-    "explanation": "De architect van de eerste kernreactor en de man van de 'Fermi-paradox' over buitenaards leven."
+    "category": "Ajax",
+    "word": "Justin Kluivert",
+    "explanation": "De zoon van Patrick die een hattrick scoorde tegen Roda JC."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Dirac",
-    "explanation": "De man die het bestaan van antimaterie wiskundig voorspelde."
+    "category": "Ajax",
+    "word": "Noa Lang",
+    "explanation": "Het brutale talent dat scoorde bij zijn debuut tegen FC Twente."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Archimedes",
-    "explanation": "De Griek die de wet van het drijfvermogen ontdekte ('Eureka!')."
+    "category": "Ajax",
+    "word": "Sergiño Dest",
+    "explanation": "De Amerikaans-Nederlandse rechtsback die naar Barcelona vertrok."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Kepler",
-    "explanation": "De astronoom die bewees dat planeten in elliptische banen om de zon draaien."
+    "category": "Ajax",
+    "word": "Sven Botman",
+    "explanation": "De verdediger die via een verhuurperiode bij Heerenveen uitgroeide tot een ster."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Pascal",
-    "explanation": "De man van de luchtdruk, de hydrostatica en de eenheid van druk."
+    "category": "Ajax",
+    "word": "Jong Ajax",
+    "explanation": "Het beloftenelftal dat uitkomt in de Keuken Kampioen Divisie."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Kelvin",
-    "explanation": "De man naar wie de absolute temperatuurschaal is vernoemd."
+    "category": "Ajax",
+    "word": "Ajax Vrouwen",
+    "explanation": "Het succesvolle vrouwenteam van de club."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Ampère",
-    "explanation": "Een van de grondleggers van het elektromagnetisme, vernoemd naar de stroomsterkte."
+    "category": "Ajax",
+    "word": "Daphne Koster",
+    "explanation": "Het boegbeeld van het Ajax-vrouwenvoetbal."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Ohm",
-    "explanation": "De man die de wet ontdekte tussen spanning, stroom en weerstand."
+    "category": "Ajax",
+    "word": "Sherida Spitse",
+    "explanation": "De aanvoerster en recordinternational die bij Ajax speelt."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Watt",
-    "explanation": "De verbeteraar van de stoommachine naar wie de eenheid van vermogen is vernoemd."
+    "category": "Ajax",
+    "word": "De Toekomst",
+    "explanation": "Het jeugdcomplex van Ajax, met onder meer het hoofdveld voor Jong Ajax en jeugdteams."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Joule",
-    "explanation": "De man die aantoonde dat warmte een vorm van energie is."
+    "category": "Ajax",
+    "word": "De 34e titel",
+    "explanation": "De emotionele landstitel die werd opgedragen aan Abdelhak Nouri."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Hertz",
-    "explanation": "De eerste die radiogolven bewees, vernoemd naar de eenheid van frequentie."
+    "category": "Ajax",
+    "word": "15 mei 2011",
+    "explanation": "De dag van de 'beslissingswedstrijd' tegen FC Twente voor de 30e titel."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Doppler",
-    "explanation": "De ontdekker van de kleur- of toonhoogteverandering bij een bewegende bron."
+    "category": "Ajax",
+    "word": "Derde ster",
+    "explanation": "Behaald in 2011 na het kampioenschap tegen Twente."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Zwaartekracht",
-    "explanation": "De aantrekkingskracht die massa's op elkaar uitoefenen."
+    "category": "Ajax",
+    "word": "Ziggo",
+    "explanation": "De huidige hoofdsponsor op de borst."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Relativiteitstheorie",
-    "explanation": "De theorie die stelt dat tijd en ruimte relatief zijn en vervormen door massa."
+    "category": "Ajax",
+    "word": "ABN AMRO",
+    "explanation": "De klassieke sponsor die jarenlang verticaal op het shirt stond."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Kwantummechanica",
-    "explanation": "De natuurkunde op de allerkleinste schaal van atomen en deeltjes."
+    "category": "Ajax",
+    "word": "TDK",
+    "explanation": "De legendarische sponsor uit de jaren '80 (Van Basten tijdperk)."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Thermodynamica",
-    "explanation": "De leer van warmte, energie en arbeid."
+    "category": "Ajax",
+    "word": "Bob Marley shirt",
+    "explanation": "Het populaire zwarte derde shirt met rood-geel-groene details ter ere van 'Three Little Birds'."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Entropie",
-    "explanation": "De maat voor de wanorde in een systeem, die volgens de wetten altijd toeneemt."
+    "category": "Ajax",
+    "word": "Three Little Birds",
+    "explanation": "Het onofficiële clublied dat in de rust altijd massaal wordt gezongen."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Lichtsnelheid",
-    "explanation": "De absolute maximumsnelheid in het universum, ongeveer 300.000 km per seconde."
+    "category": "Ajax",
+    "word": "Geef mij maar Amsterdam",
+    "explanation": "Het lied van Johnny Jordaan dat altijd klinkt in het stadion."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Zwart gat",
-    "explanation": "Een gebied in de ruimte met een zo sterke zwaartekracht dat zelfs licht niet kan ontsnappen."
+    "category": "Ajax",
+    "word": "Bloed, zweet en tranen",
+    "explanation": "Het nummer van André Hazes dat onlosmakelijk verbonden is met de sfeer."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Oerknal",
-    "explanation": "De Big Bang; het beginmoment van het universum, zo'n 13,8 miljard jaar geleden."
+    "category": "Ajax",
+    "word": "Fluwelen Revolutie",
+    "explanation": "De machtsstrijd binnen Ajax die door Johan Cruijff werd ingezet."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Superpositie",
-    "explanation": "Het kwantumprincipe dat een deeltje in meerdere toestanden tegelijk kan zijn."
+    "category": "Ajax",
+    "word": "Plan Cruijff",
+    "explanation": "De visie van Johan om de macht terug te geven aan de oud-voetballers."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Verstrengeling",
-    "explanation": "Entanglement; het fenomeen waarbij twee deeltjes direct verbonden blijven ongeacht de afstand."
+    "category": "Ajax",
+    "word": "Amsterdamse bluf",
+    "explanation": "De zelfverzekerde houding die vaak aan de club wordt toegeschreven."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Traagheid",
-    "explanation": "Inertia; de neiging van een voorwerp om zich te verzetten tegen een verandering in beweging."
+    "category": "Ajax",
+    "word": "Totaalvoetbal",
+    "explanation": "De speelstijl waarbij spelers constant van positie wisselen."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Wrijving",
-    "explanation": "De weerstand die ontstaat wanneer twee oppervlakken langs elkaar bewegen."
+    "category": "Ajax",
+    "word": "Drie-vier-drie",
+    "explanation": "Het klassieke Ajax-systeem met een ruit op het middenveld."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Kernsplitsing",
-    "explanation": "Het uiteenvallen van een zware atoomkern waarbij veel energie vrijkomt."
+    "category": "Ajax",
+    "word": "Ajax-DNA",
+    "explanation": "De term voor de specifieke cultuur en speelwijze van de club."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Kernfusie",
-    "explanation": "Het samensmelten van lichte atoomkernen, de energiebron van de zon."
+    "category": "Ajax",
+    "word": "Godenzoon",
+    "explanation": "Enkelvoud van Godenzonen."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Absoluut nulpunt",
-    "explanation": "De laagst mogelijke temperatuur: 0 Kelvin of -273,15 graden Celsius."
+    "category": "Ajax",
+    "word": "Andre Onana",
+    "explanation": "De Kameroense doelman die jarenlang eerste keeper van Ajax was."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Antimaterie",
-    "explanation": "Materie bestaande uit antideeltjes die bij contact met gewone materie onmiddellijk vernietigen."
+    "category": "Ajax",
+    "word": "Gerrie Muhren",
+    "explanation": "Middenvelder uit het gouden elftal, beroemd om zijn hooghoudmoment in Bernabéu."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Donkere materie",
-    "explanation": "Onzichtbare materie die we niet kunnen zien, maar die wel zwaartekracht uitoefent op sterrenstelsels."
+    "category": "Ajax",
+    "word": "Wim Jonk",
+    "explanation": "Middenvelder met een fluwelen trap, later hoofd jeugdopleiding."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Higgs-boson",
-    "explanation": "Het 'God-deeltje' dat andere deeltjes hun massa geeft."
+    "category": "Ajax",
+    "word": "Bryan Roy",
+    "explanation": "De linksbuiten van het team uit 1992."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Event Horizon",
-    "explanation": "De waarnemingshorizon; de 'point of no return' bij een zwart gat."
+    "category": "Ajax",
+    "word": "Tscheu La Ling",
+    "explanation": "De grillige maar geniale rechtsbuiten uit de jaren '70."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Radioactiviteit",
-    "explanation": "Het spontaan uitzenden van straling door onstabiele atoomkernen."
+    "category": "Ajax",
+    "word": "Simon Tahamata",
+    "explanation": "De kleine dribbelaar die altijd populair is gebleven bij het publiek."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Foton",
-    "explanation": "Een lichtdeeltje, het kleinste pakketje elektromagnetische straling."
+    "category": "Ajax",
+    "word": "Tonny Bruins Slot",
+    "explanation": "De legendarische analist en rechterhand van Johan Cruijff en Ronald Koeman."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Elektron",
-    "explanation": "Een negatief geladen subatomair deeltje dat rond de atoomkern draait."
+    "category": "Ajax",
+    "word": "Piet Schrijvers",
+    "explanation": "De 'Beer van De Meer', de robuuste doelman uit de jaren '70."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Proton",
-    "explanation": "Een positief geladen deeltje in de kern van een atoom."
+    "category": "Ajax",
+    "word": "Frank Arnesen",
+    "explanation": "De Deense middenvelder die in 1975 met Ajax de KNVB-beker won."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Neutron",
-    "explanation": "Een neutraal deeltje in de atoomkern dat de kern bij elkaar houdt."
+    "category": "Ajax",
+    "word": "Ajax Life",
+    "explanation": "Het blad van de officiële supportersvereniging."
   },
   {
-    "category": "Natuurkunde",
-    "word": "Quark",
-    "explanation": "De fundamentele bouwstenen waaruit protonen en neutronen bestaan."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "E = mc²",
-    "explanation": "De beroemdste formule: Energie is gelijk aan massa maal de lichtsnelheid in het kwadraat."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "F = m * a",
-    "explanation": "De tweede wet van Newton: Kracht is massa maal versnelling."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "F = m * g",
-    "explanation": "De formule voor zwaartekracht op aarde: Kracht is massa maal valversnelling."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "p = m * v",
-    "explanation": "De formule voor impuls: Impuls is massa maal snelheid."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "V = I * R",
-    "explanation": "De wet van Ohm: Spanning is stroomsterkte maal weerstand."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "P = V * I",
-    "explanation": "De formule voor elektrisch vermogen: Vermogen is spanning maal stroomsterkte."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "W = F * d",
-    "explanation": "De formule voor arbeid: Arbeid is kracht maal afstand."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "v = s / t",
-    "explanation": "De formule voor snelheid: Snelheid is afstand gedeeld door tijd."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "E = h * f",
-    "explanation": "De formule van Planck: Energie van een foton is de constante van Planck maal de frequentie."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "PV = nRT",
-    "explanation": "De ideale gaswet die druk, volume en temperatuur combineert."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Gravitatieconstante",
-    "explanation": "De constante G die de sterkte van de zwaartekracht bepaalt."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Constante van Planck",
-    "explanation": "Het getal h dat de schaal van kwantumeffecten aangeeft."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Isotoop",
-    "explanation": "Atomen van hetzelfde element met een verschillend aantal neutronen."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Halveringstijd",
-    "explanation": "De tijd die nodig is voor de helft van een radioactieve stof om te vervallen."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Doppler-effect",
-    "explanation": "De verandering in frequentie van geluid of licht door de beweging van de bron."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Supergeleiding",
-    "explanation": "Het fenomeen waarbij een materiaal bij lage temperatuur stroom geleidt zonder enige weerstand."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Capaciteit",
-    "explanation": "Het vermogen van een component (zoals een condensator) om elektrische lading op te slaan."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Magnetisch veld",
-    "explanation": "De onzichtbare kracht rond een magneet of een stroomdraad."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Plasma",
-    "explanation": "De vierde aggregatietoestand van materie, bestaande uit geïoniseerd gas (zoals in bliksem of de zon)."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Dichtheid",
-    "explanation": "Massa per volume-eenheid; bepaalt of iets drijft of zinkt."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Halfgeleider",
-    "explanation": "Een materiaal dat tussen een geleider en een isolator in zit, de basis van alle microchips."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Interferentie",
-    "explanation": "Wanneer twee golven samenkomen en elkaar versterken of uitdoven."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Kinetische energie",
-    "explanation": "Bewegingsenergie; de energie die een voorwerp heeft omdat het beweegt."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Potentiële energie",
-    "explanation": "Energie die is opgeslagen in een voorwerp, bijvoorbeeld door hoogte of een veer."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Fermionen",
-    "explanation": "Deeltjes die de materie vormen, zoals quarks en elektronen."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Bosonen",
-    "explanation": "Krachtvoerende deeltjes, zoals fotonen en het Higgs-deeltje."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Snaartheorie",
-    "explanation": "Een hypothetische theorie waarin deeltjes eigenlijk heel kleine trillende snaartjes zijn."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Grootheid",
-    "explanation": "Iets dat je kunt meten, zoals lengte, tijd of massa."
-  },
-  {
-    "category": "Natuurkunde",
-    "word": "Eenheid",
-    "explanation": "De maat waarin je een grootheid uitdrukt, zoals meter, seconde of kilogram."
+    "category": "Ajax",
+    "word": "Dapp're Strijders",
+    "explanation": "Een bekende regel uit het Ajax-clublied."
   },
   {
     "category": "Econometrie",
@@ -2993,6 +2048,241 @@
     "category": "Econometrie",
     "word": "Elasticiteit",
     "explanation": "De procentuele verandering in de afhankelijke variabele bij een verandering van 1% in een onafhankelijke variabele."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Daenerys Targaryen",
+    "explanation": "De Mother of Dragons, Breaker of Chains en de rechtmatige (vond ze zelf) erfgenaam van de IJzeren Troon."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Jon Snow",
+    "explanation": "De bastaard van Winterfell die eigenlijk Aegon Targaryen bleek te zijn; hij weet niets (volgens Ygritte)."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Tyrion Lannister",
+    "explanation": "De 'Imp' die bekendstaat om zijn scherpe geest, liefde voor wijn en de uitspraak: 'I drink and I know things'."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "De IJzeren Troon",
+    "explanation": "De zetel van de koning van de Zeven Koninkrijken, gesmeed uit duizend zwaarden van overwonnen vijanden."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Winterfell",
+    "explanation": "Het voorouderlijke kasteel van de familie Stark en de hoofdstad van het Noorden."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "De Muur",
+    "explanation": "De gigantische ijsconstructie die het rijk beschermt tegen de White Walkers en de Wildlings."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Nachtwacht",
+    "explanation": "De 'Crows'; de mannen in het zwart die zweren hun leven te geven om de Muur te bewaken."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "White Walkers",
+    "explanation": "De 'Others'; de ijzige ondode wezens die onder leiding van de Night King Westeros binnenvallen."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Drogon",
+    "explanation": "De grootste en meest agressieve draak van Daenerys, vernoemd naar Khal Drogo."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Viserion",
+    "explanation": "De draak die door de Night King werd gedood en als ondode ijsdraak werd teruggehaald."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Rhaegal",
+    "explanation": "De groene draak die werd vernoemd naar de broer van Daenerys, Rhaegar."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "The Red Wedding",
+    "explanation": "De beruchte bruiloft bij de Freys waar Robb Stark, zijn moeder Catelyn en zijn zwangere vrouw werden afgeslacht."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Valyrisch Staal",
+    "explanation": "Uitzonderlijk scherp en licht metaal dat met magie is gesmeed en White Walkers kan doden."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Cersei Lannister",
+    "explanation": "De meedogenloze koningin die alles overhad voor haar kinderen en haar macht op de troon."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Jaime Lannister",
+    "explanation": "De 'Kingslayer' die de gekke koning Aerys doodde en een complexe reis van verlossing doormaakte."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Arya Stark",
+    "explanation": "Het meisje dat 'Niemand' werd in Braavos en uiteindelijk de Night King doodde."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Naald",
+    "explanation": "Needle; het kleine, dunne zwaard van Arya Stark dat ze van Jon Snow kreeg."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Sansa Stark",
+    "explanation": "De 'Little Bird' die uitgroeide tot de strategische en sterke Queen in the North."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Bran Stark",
+    "explanation": "De Three-Eyed Raven die alles in het verleden en heden kan zien."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Hodor",
+    "explanation": "De trouwe reus wiens naam een afkorting bleek te zijn voor 'Hold the door'."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Ramsay Bolton",
+    "explanation": "De sadistische bastaard van Roose Bolton die Theon Greyjoy martelde tot 'Reek'."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Joffrey Baratheon",
+    "explanation": "De jonge, wrede koning die stierf door vergiftiging op zijn eigen bruiloft (The Purple Wedding)."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Petyr Baelish",
+    "explanation": "Littlefinger; de meester-manipulator die geloofde dat 'chaos is a ladder'."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Little finger",
+    "explanation": "De bijnaam van Petyr Baelish, de meester-manipulator uit King's Landing."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Lord Varys",
+    "explanation": "De 'Spider'; de eunuch die via zijn 'kleine vogeltjes' (spionnen) alle geheimen van het rijk kende."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "De Berg",
+    "explanation": "Gregor Clegane; de gigantische ridder en brute moordenaar die later als een soort zombie voortleefde."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "De Hond",
+    "explanation": "Sandor Clegane; de man met de verbrande gezichtshelft die een gecompliceerde band had met Arya."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Brienne of Tarth",
+    "explanation": "De vrouwelijke ridder die bekendstond om haar loyaliteit en haar gevechtskunst."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Melisandre",
+    "explanation": "De Red Priestess die de Lord of Light diende en schaduwbaby's baarde."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Stannis Baratheon",
+    "explanation": "De plichtsgetrouwe broer van Robert die geloofde dat hij de uitverkorene van de Lord of Light was."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Oberyn Martell",
+    "explanation": "De 'Red Viper' uit Dorne die stierf tijdens een duel met De Berg om zijn zus te wreken."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Olenna Tyrell",
+    "explanation": "De 'Queen of Thorns'; de vlijmscherpe oma die achter de moord op Joffrey zat."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Theon Greyjoy",
+    "explanation": "De gijzelaar van de Starks die zijn familie verraadde, werd verminkt door Ramsay en stierf als een Stark."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Valar Morghulis",
+    "explanation": "De High Valyrian spreuk die betekent: 'Alle mensen moeten sterven'."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Valar Dohaeris",
+    "explanation": "Het antwoord op Valar Morghulis, wat betekent: 'Alle mensen moeten dienen'."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Gezichtsloze Mannen",
+    "explanation": "De gilde van huurmoordenaars in Braavos die van gezicht kunnen wisselen."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Braavos",
+    "explanation": "De Vrije Stad bekend om de Titan-poort en de IJzeren Bank."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Koningstlanding",
+    "explanation": "King's Landing; de hoofdstad van de Zeven Koninkrijken."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Wildvuur",
+    "explanation": "Wildfire; de zeer brandbare groene vloeistof die zelfs op water blijft branden."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "George R.R. Martin",
+    "explanation": "De schrijver van de boekenreeks 'A Song of Ice and Fire' waarop de serie is gebaseerd."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Dothraki",
+    "explanation": "Het volk van paardenrijders uit de steppen van Essos."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Dracarys",
+    "explanation": "Het commando dat Daenerys gebruikt om haar draken vuur te laten spuwen."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Eddard Stark",
+    "explanation": "Ned; het morele kompas van de serie wiens onverwachte onthoofding de oorlog ontketende."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "De Hand van de Koning",
+    "explanation": "De belangrijkste adviseur en plaatsvervanger van de zittende koning."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Kasteel Zwart",
+    "explanation": "Castle Black; het hoofdkwartier van de Nachtwacht aan de voet van de Muur."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "De IJzeren Eilanden",
+    "explanation": "De thuishaven van de Greyjoys, waar men gelooft in de Drowned God."
+  },
+  {
+    "category": "Game of Thrones",
+    "word": "Winter is Coming",
+    "explanation": "De woorden van de familie Stark en een waarschuwing voor naderend onheil."
   },
   {
     "category": "Harry Potter",
@@ -3417,7 +2707,7 @@
   {
     "category": "Harry Potter",
     "word": "Hippogrief",
-    "explanation": "Een wezen zoals Scheurbek."
+    "explanation": "Een magisch wezen dat half adelaar en half paard is, zoals Scheurbek."
   },
   {
     "category": "Harry Potter",
@@ -3427,7 +2717,7 @@
   {
     "category": "Harry Potter",
     "word": "Aragog",
-    "explanation": "De reuzenspin in het bos."
+    "explanation": "De gigantische Acromantula die in het Verboden Bos leeft."
   },
   {
     "category": "Harry Potter",
@@ -3437,7 +2727,7 @@
   {
     "category": "Harry Potter",
     "word": "Lucius Malfidus",
-    "explanation": "De vader van Draco."
+    "explanation": "De aristocratische Dooddoener en vader van Draco Malfidus."
   },
   {
     "category": "Harry Potter",
@@ -3452,7 +2742,7 @@
   {
     "category": "Harry Potter",
     "word": "Accio",
-    "explanation": "om voorwerpen naar je toe te laten komen."
+    "explanation": "De spreuk om voorwerpen naar je toe te laten komen."
   },
   {
     "category": "Harry Potter",
@@ -3477,12 +2767,7 @@
   {
     "category": "Harry Potter",
     "word": "James Potter",
-    "explanation": "De ouders van Harry."
-  },
-  {
-    "category": "Harry Potter",
-    "word": "James Potter",
-    "explanation": "De ouders van Harry."
+    "explanation": "De vader van Harry en een van de makers van de Sluipwegwijzer."
   },
   {
     "category": "Harry Potter",
@@ -3512,7 +2797,7 @@
   {
     "category": "Harry Potter",
     "word": "Hedwig",
-    "explanation": "De sneeuwwitte uil."
+    "explanation": "Harry's trouwe sneeuwwitte uil die zijn post bezorgt."
   },
   {
     "category": "Harry Potter",
@@ -3522,7 +2807,7 @@
   {
     "category": "Harry Potter",
     "word": "Nagini",
-    "explanation": "De slang van Voldemort."
+    "explanation": "De slang van Voldemort en een van zijn Gruzielementen."
   },
   {
     "category": "Harry Potter",
@@ -3577,7 +2862,7 @@
   {
     "category": "Lord of the Rings",
     "word": "Gil-galad",
-    "explanation": "De laatste Hoge Koning van de Noldor, gesneuveld tijdens de laatste bondgenootschap."
+    "explanation": "De laatste Hoge Koning van de Noldor, gesneuveld tijdens het Laatste Bondgenootschap."
   },
   {
     "category": "Lord of the Rings",
@@ -3802,7 +3087,7 @@
   {
     "category": "Lord of the Rings",
     "word": "Boombaard",
-    "explanation": "De oudste der Enten"
+    "explanation": "De oudste der Enten en leider van de Enten in Fangorn."
   },
   {
     "category": "Lord of the Rings",
@@ -4078,6 +3363,421 @@
     "category": "Lord of the Rings",
     "word": "Bombur",
     "explanation": "De dikste dwerg van het gezelschap van Thorin."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Albert Einstein",
+    "explanation": "De genie achter de relativiteitstheorie en de man die bewees dat massa en energie uitwisselbaar zijn."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Isaac Newton",
+    "explanation": "De man van de vallende appel, de zwaartekrachtwetten en de drie wetten van de mechanica."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Stephen Hawking",
+    "explanation": "De kosmoloog die zwarte gaten onderzocht en schreef over de 'oerknal' vanuit zijn rolstoel."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Marie Curie",
+    "explanation": "De ontdekster van radium en polonium, en de eerste vrouw die twee Nobelprijzen won."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Niels Bohr",
+    "explanation": "De Deen die het atoommodel met schillen bedacht waarin elektronen rond de kern draaien."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Heisenberg",
+    "explanation": "Grondlegger van de kwantummechanica, bekend om zijn 'onzekerheidsrelatie'."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Schrödinger",
+    "explanation": "Beroemd om zijn gedachte-experiment met een kat in een doos die tegelijk dood en levend is."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Feynman",
+    "explanation": "De speelse Nobelprijswinnaar die kwantumelektrodynamica uitlegde met simpele diagrammen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Maxwell",
+    "explanation": "De man die elektriciteit en magnetisme verenigde in vier beroemde vergelijkingen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Tesla",
+    "explanation": "De visionair achter de wisselstroom (AC) en de Tesla-spoel."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Faraday",
+    "explanation": "De ontdekker van elektromagnetische inductie; zonder hem hadden we geen dynamo's."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Planck",
+    "explanation": "De vader van de kwantumtheorie die ontdekte dat energie in 'pakketjes' (quanta) komt."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Galileo Galilei",
+    "explanation": "De astronoom die door zijn telescoop zag dat de aarde om de zon draait en niet andersom."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Oppenheimer",
+    "explanation": "De wetenschappelijk leider van het Manhattanproject en de 'vader van de atoombom'."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Lorentz",
+    "explanation": "Nederlandse Nobelprijswinnaar wiens transformaties essentieel waren voor Einstein."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Huygens",
+    "explanation": "De Nederlander die de golftheorie van het licht bedacht en de ringen van Saturnus ontdekte."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Boltzmann",
+    "explanation": "De man die thermodynamica verbond aan statistiek en atoomtheorie."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Fermi",
+    "explanation": "De architect van de eerste kernreactor en de man van de 'Fermi-paradox' over buitenaards leven."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Dirac",
+    "explanation": "De man die het bestaan van antimaterie wiskundig voorspelde."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Archimedes",
+    "explanation": "De Griek die de wet van het drijfvermogen ontdekte ('Eureka!')."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Kepler",
+    "explanation": "De astronoom die bewees dat planeten in elliptische banen om de zon draaien."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Pascal",
+    "explanation": "De man van de luchtdruk, de hydrostatica en de eenheid van druk."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Kelvin",
+    "explanation": "De man naar wie de absolute temperatuurschaal is vernoemd."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Ampère",
+    "explanation": "Een van de grondleggers van het elektromagnetisme, vernoemd naar de stroomsterkte."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Ohm",
+    "explanation": "De man die de wet ontdekte tussen spanning, stroom en weerstand."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Watt",
+    "explanation": "De verbeteraar van de stoommachine naar wie de eenheid van vermogen is vernoemd."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Joule",
+    "explanation": "De man die aantoonde dat warmte een vorm van energie is."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Hertz",
+    "explanation": "De eerste die radiogolven bewees, vernoemd naar de eenheid van frequentie."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Doppler",
+    "explanation": "De ontdekker van de kleur- of toonhoogteverandering bij een bewegende bron."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Zwaartekracht",
+    "explanation": "De aantrekkingskracht die massa's op elkaar uitoefenen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Relativiteitstheorie",
+    "explanation": "De theorie die stelt dat tijd en ruimte relatief zijn en vervormen door massa."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Kwantummechanica",
+    "explanation": "De natuurkunde op de allerkleinste schaal van atomen en deeltjes."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Thermodynamica",
+    "explanation": "De leer van warmte, energie en arbeid."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Entropie",
+    "explanation": "De maat voor de wanorde in een systeem, die volgens de wetten altijd toeneemt."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Lichtsnelheid",
+    "explanation": "De absolute maximumsnelheid in het universum, ongeveer 300.000 km per seconde."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Zwart gat",
+    "explanation": "Een gebied in de ruimte met een zo sterke zwaartekracht dat zelfs licht niet kan ontsnappen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Oerknal",
+    "explanation": "De Big Bang; het beginmoment van het universum, zo'n 13,8 miljard jaar geleden."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Superpositie",
+    "explanation": "Het kwantumprincipe dat een deeltje in meerdere toestanden tegelijk kan zijn."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Verstrengeling",
+    "explanation": "Entanglement; het fenomeen waarbij twee deeltjes direct verbonden blijven ongeacht de afstand."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Traagheid",
+    "explanation": "Inertia; de neiging van een voorwerp om zich te verzetten tegen een verandering in beweging."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Wrijving",
+    "explanation": "De weerstand die ontstaat wanneer twee oppervlakken langs elkaar bewegen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Kernsplitsing",
+    "explanation": "Het uiteenvallen van een zware atoomkern waarbij veel energie vrijkomt."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Kernfusie",
+    "explanation": "Het samensmelten van lichte atoomkernen, de energiebron van de zon."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Absoluut nulpunt",
+    "explanation": "De laagst mogelijke temperatuur: 0 Kelvin of -273,15 graden Celsius."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Antimaterie",
+    "explanation": "Materie bestaande uit antideeltjes die bij contact met gewone materie onmiddellijk vernietigen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Donkere materie",
+    "explanation": "Onzichtbare materie die we niet kunnen zien, maar die wel zwaartekracht uitoefent op sterrenstelsels."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Higgs-boson",
+    "explanation": "Het 'God-deeltje' dat andere deeltjes hun massa geeft."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Event Horizon",
+    "explanation": "De waarnemingshorizon; de 'point of no return' bij een zwart gat."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Radioactiviteit",
+    "explanation": "Het spontaan uitzenden van straling door onstabiele atoomkernen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Foton",
+    "explanation": "Een lichtdeeltje, het kleinste pakketje elektromagnetische straling."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Elektron",
+    "explanation": "Een negatief geladen subatomair deeltje dat rond de atoomkern draait."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Proton",
+    "explanation": "Een positief geladen deeltje in de kern van een atoom."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Neutron",
+    "explanation": "Een neutraal deeltje in de atoomkern dat de kern bij elkaar houdt."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Quark",
+    "explanation": "De fundamentele bouwstenen waaruit protonen en neutronen bestaan."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "E = mc²",
+    "explanation": "De beroemdste formule: Energie is gelijk aan massa maal de lichtsnelheid in het kwadraat."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "F = m * a",
+    "explanation": "De tweede wet van Newton: Kracht is massa maal versnelling."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "F = m * g",
+    "explanation": "De formule voor zwaartekracht op aarde: Kracht is massa maal valversnelling."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "p = m * v",
+    "explanation": "De formule voor impuls: Impuls is massa maal snelheid."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "V = I * R",
+    "explanation": "De wet van Ohm: Spanning is stroomsterkte maal weerstand."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "P = V * I",
+    "explanation": "De formule voor elektrisch vermogen: Vermogen is spanning maal stroomsterkte."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "W = F * d",
+    "explanation": "De formule voor arbeid: Arbeid is kracht maal afstand."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "v = s / t",
+    "explanation": "De formule voor snelheid: Snelheid is afstand gedeeld door tijd."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "E = h * f",
+    "explanation": "De formule van Planck: Energie van een foton is de constante van Planck maal de frequentie."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "PV = nRT",
+    "explanation": "De ideale gaswet die druk, volume en temperatuur combineert."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Gravitatieconstante",
+    "explanation": "De constante G die de sterkte van de zwaartekracht bepaalt."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Constante van Planck",
+    "explanation": "Het getal h dat de schaal van kwantumeffecten aangeeft."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Isotoop",
+    "explanation": "Atomen van hetzelfde element met een verschillend aantal neutronen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Halveringstijd",
+    "explanation": "De tijd die nodig is voor de helft van een radioactieve stof om te vervallen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Doppler-effect",
+    "explanation": "De verandering in frequentie van geluid of licht door de beweging van de bron."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Supergeleiding",
+    "explanation": "Het fenomeen waarbij een materiaal bij lage temperatuur stroom geleidt zonder enige weerstand."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Capaciteit",
+    "explanation": "Het vermogen van een component (zoals een condensator) om elektrische lading op te slaan."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Magnetisch veld",
+    "explanation": "De onzichtbare kracht rond een magneet of een stroomdraad."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Plasma",
+    "explanation": "De vierde aggregatietoestand van materie, bestaande uit geïoniseerd gas (zoals in bliksem of de zon)."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Dichtheid",
+    "explanation": "Massa per volume-eenheid; bepaalt of iets drijft of zinkt."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Halfgeleider",
+    "explanation": "Een materiaal dat tussen een geleider en een isolator in zit, de basis van alle microchips."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Interferentie",
+    "explanation": "Wanneer twee golven samenkomen en elkaar versterken of uitdoven."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Kinetische energie",
+    "explanation": "Bewegingsenergie; de energie die een voorwerp heeft omdat het beweegt."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Potentiële energie",
+    "explanation": "Energie die is opgeslagen in een voorwerp, bijvoorbeeld door hoogte of een veer."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Fermionen",
+    "explanation": "Deeltjes die de materie vormen, zoals quarks en elektronen."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Bosonen",
+    "explanation": "Krachtvoerende deeltjes, zoals fotonen en het Higgs-deeltje."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Snaartheorie",
+    "explanation": "Een hypothetische theorie waarin deeltjes eigenlijk heel kleine trillende snaartjes zijn."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Grootheid",
+    "explanation": "Iets dat je kunt meten, zoals lengte, tijd of massa."
+  },
+  {
+    "category": "Natuurkunde",
+    "word": "Eenheid",
+    "explanation": "De maat waarin je een grootheid uitdrukt, zoals meter, seconde of kilogram."
   },
   {
     "category": "Pokémon",
@@ -4387,7 +4087,7 @@
   {
     "category": "Pokémon",
     "word": "Magikarp",
-    "explanation": "De meest nutteloze vis die alleen de aanval 'Splash' kent."
+    "explanation": "De berucht zwakke vis-Pokémon die vooral bekendstaat om Splash, maar evolueert naar Gyarados."
   },
   {
     "category": "Pokémon",
@@ -4597,7 +4297,7 @@
   {
     "category": "Pokémon",
     "word": "Electabuzz",
-    "explanation": "De gele elektrisch-Pokémon met zwarte strepen."
+    "explanation": "De gele elektrische Pokémon met zwarte strepen."
   },
   {
     "category": "Pokémon",
@@ -4612,7 +4312,7 @@
   {
     "category": "Pokémon",
     "word": "Ditto",
-    "explanation": "De transformatie-Pokémon."
+    "explanation": "De transformatie-Pokémon die uiterlijk en aanvallen van andere Pokémon kan kopiëren."
   },
   {
     "category": "Pokémon",
@@ -4680,493 +4380,778 @@
     "explanation": "Een item om een flauwgevallen Pokémon weer tot leven te wekken."
   },
   {
-    "category": "Nintendo",
-    "word": "NES",
-    "explanation": "De console die de game-industrie in de jaren '80 redde, in Japan bekend als de Famicom."
+    "category": "Mythologie",
+    "word": "Zeus",
+    "explanation": "De Griekse oppergod en heerser van de Olympus, bekend om zijn bliksemschichten en vele affaires."
   },
   {
-    "category": "Nintendo",
-    "word": "Super Nintendo (SNES)",
-    "explanation": "De 16-bit opvolger van de NES, beroemd om games als Super Mario World en F-Zero."
+    "category": "Mythologie",
+    "word": "Jupiter",
+    "explanation": "De Romeinse tegenhanger van Zeus, de god van de hemel en het onweer."
   },
   {
-    "category": "Nintendo",
-    "word": "Nintendo 64",
-    "explanation": "De console die 3D-gaming perfectioneerde met een controller die drie handvatten had."
+    "category": "Mythologie",
+    "word": "Poseidon",
+    "explanation": "De Griekse god van de zee die met zijn drietand aardbevingen en stormen veroorzaakt."
   },
   {
-    "category": "Nintendo",
-    "word": "GameCube",
-    "explanation": "De paarse console in de vorm van een kubus met een handvat aan de achterkant."
+    "category": "Mythologie",
+    "word": "Neptunus",
+    "explanation": "De Romeinse god van de wateren en de zeeën."
   },
   {
-    "category": "Nintendo",
-    "word": "Wii",
-    "explanation": "De revolutionaire console die iedereen aan het bewegen kreeg met de Wii Remote."
+    "category": "Mythologie",
+    "word": "Hades",
+    "explanation": "De Griekse god van de onderwereld en de doden (ook de naam van de plek zelf)."
   },
   {
-    "category": "Nintendo",
-    "word": "Nintendo Switch",
-    "explanation": "De hybride console die je zowel op de tv als onderweg kunt gebruiken."
+    "category": "Mythologie",
+    "word": "Pluto",
+    "explanation": "De Romeinse god van de onderwereld en de rijkdommen in de aarde."
   },
   {
-    "category": "Nintendo",
-    "word": "Game Boy",
-    "explanation": "De iconische grijze handheld die de wereld veroverde met Tetris."
+    "category": "Mythologie",
+    "word": "Athena",
+    "explanation": "De Griekse godin van de wijsheid en de strategische oorlogsvoering, geboren uit het hoofd van Zeus."
   },
   {
-    "category": "Nintendo",
-    "word": "Virtual Boy",
-    "explanation": "Nintendo's grootste hardware-flop; een rode VR-bril die je op een standaard moest zetten."
+    "category": "Mythologie",
+    "word": "Minerva",
+    "explanation": "De Romeinse godin van de wijsheid, kunst en scholen."
   },
   {
-    "category": "Nintendo",
-    "word": "Mario",
-    "explanation": "De Italiaanse loodgieter die vroeger Jumpman heette en de mascotte van het bedrijf is."
+    "category": "Mythologie",
+    "word": "Ares",
+    "explanation": "De Griekse god van de bloedige en brute oorlog."
   },
   {
-    "category": "Nintendo",
-    "word": "Luigi",
-    "explanation": "De langere, groen geklede broer van Mario die vaak de hoofdrol speelt in spookhuizen."
+    "category": "Mythologie",
+    "word": "Mars",
+    "explanation": "De Romeinse god van de oorlog, maar ook een beschermer van de landbouw en veel belangrijker voor de Romeinen dan Ares voor de Grieken."
   },
   {
-    "category": "Nintendo",
-    "word": "Bowser",
-    "explanation": "Koning Koopa; de aartsvijand van Mario die constant prinses Peach ontvoert."
+    "category": "Mythologie",
+    "word": "Aphrodite",
+    "explanation": "De Griekse godin van de liefde en de schoonheid, geboren uit het schuim van de zee."
   },
   {
-    "category": "Nintendo",
-    "word": "Prinses Peach",
-    "explanation": "De heerseres van het Paddenstoelenrijk die een roze jurk draagt."
+    "category": "Mythologie",
+    "word": "Venus",
+    "explanation": "De Romeinse godin van de liefde en de tuinen."
   },
   {
-    "category": "Nintendo",
-    "word": "Yoshi",
-    "explanation": "De groene dinosauriër die Mario op zijn rug draagt en vijanden opeet met zijn tong."
+    "category": "Mythologie",
+    "word": "Apollo",
+    "explanation": "De god van het licht, de muziek en de voorspellingskunst (draagt bij beide culturen dezelfde naam)."
   },
   {
-    "category": "Nintendo",
-    "word": "Wario",
-    "explanation": "De hebzuchtige en dikke rivaal van Mario met een gele muts en een grote neus."
+    "category": "Mythologie",
+    "word": "Artemis",
+    "explanation": "De Griekse godin van de jacht en de maan, tweelingzus van Apollo."
   },
   {
-    "category": "Nintendo",
-    "word": "Waluigi",
-    "explanation": "De lange, dunne partner van Wario die tot frustratie van fans vaak ontbreekt in Smash Bros."
+    "category": "Mythologie",
+    "word": "Diana",
+    "explanation": "De Romeinse godin van de jacht, wilde dieren en het bos."
   },
   {
-    "category": "Nintendo",
-    "word": "Rosalina",
-    "explanation": "De beschermster van de sterren (Luma's) uit de Super Mario Galaxy-games."
+    "category": "Mythologie",
+    "word": "Hermes",
+    "explanation": "De Griekse godenbode met de gevleugelde sandalen, ook de god van de dieven en reizigers."
   },
   {
-    "category": "Nintendo",
-    "word": "Toad",
-    "explanation": "De kleine bewoner van het Paddenstoelenrijk met een paddenstoelenhoed."
+    "category": "Mythologie",
+    "word": "Mercurius",
+    "explanation": "De Romeinse god van de handel en de boodschapper van de goden."
   },
   {
-    "category": "Nintendo",
-    "word": "Goomba",
-    "explanation": "De bruine, paddenstoel-achtige vijand waar Mario bovenop moet springen."
+    "category": "Mythologie",
+    "word": "Hephaestus",
+    "explanation": "De Griekse smid van de goden, die in een vulkaan werkt en de wapens van Zeus smeedt."
   },
   {
-    "category": "Nintendo",
-    "word": "Koopa Troopa",
-    "explanation": "De schildpad-vijanden waarvan je het schild kunt wegschoppen."
+    "category": "Mythologie",
+    "word": "Vulcanus",
+    "explanation": "De Romeinse god van het vuur en de smeedkunst."
   },
   {
-    "category": "Nintendo",
-    "word": "Piranha Plant",
-    "explanation": "De happende planten die uit de groene buizen (Warp Pipes) komen."
+    "category": "Mythologie",
+    "word": "Dionysus",
+    "explanation": "De Griekse god van de wijn, het feestvieren en de waanzin."
   },
   {
-    "category": "Nintendo",
-    "word": "Link",
-    "explanation": "De held van Hyrule die de Triforce van Moed bezit (en géén Zelda heet)."
+    "category": "Mythologie",
+    "word": "Bacchus",
+    "explanation": "De Romeinse naam voor de god van de wijn."
   },
   {
-    "category": "Nintendo",
-    "word": "Prinses Zelda",
-    "explanation": "De titulaire prinses van de legendarische reeks, bezit de Triforce van Wijsheid."
+    "category": "Mythologie",
+    "word": "Hercules",
+    "explanation": "De Romeinse naam voor de Griekse held Herakles, bekend om zijn twaalf onmogelijke werken."
   },
   {
-    "category": "Nintendo",
-    "word": "Samus",
-    "explanation": "De premiejager uit de Metroid-serie die onder haar helm een vrouw bleek te zijn."
+    "category": "Mythologie",
+    "word": "Achilles",
+    "explanation": "De grootste Griekse strijder in de Trojaanse oorlog, wiens enige zwakke plek zijn hiel was."
   },
   {
-    "category": "Nintendo",
-    "word": "Ridley",
-    "explanation": "De ruimte-piraat en aartsvijand van Samus, die lijkt op een skeletachtige draak."
+    "category": "Mythologie",
+    "word": "Odysseus",
+    "explanation": "De koning van Ithaca die er tien jaar over deed om na de Trojaanse oorlog thuis te komen."
   },
   {
-    "category": "Nintendo",
-    "word": "Metroid",
-    "explanation": "De kwal-achtige wezens die energie uit hun slachtoffers zuigen."
+    "category": "Mythologie",
+    "word": "Perseus",
+    "explanation": "De held die de Gorgon Medusa onthoofdde en Andromeda redde."
   },
   {
-    "category": "Nintendo",
-    "word": "Donkey Kong",
-    "explanation": "De stropdas-dragende gorilla die ooit begon als de ontvoerder van Pauline."
+    "category": "Mythologie",
+    "word": "Medusa",
+    "explanation": "Het monster met slangen als haar waarvan de blik mensen in steen veranderde."
   },
   {
-    "category": "Nintendo",
-    "word": "Diddy Kong",
-    "explanation": "De kleine neef van Donkey Kong met het rode petje en pindapistolen."
+    "category": "Mythologie",
+    "word": "Minotaurus",
+    "explanation": "Het wezen met het lichaam van een man en de kop van een stier, opgesloten in het labyrint op Kreta."
   },
   {
-    "category": "Nintendo",
-    "word": "Kirby",
-    "explanation": "De roze bol uit Dream Land die vijanden inslikt om hun krachten te kopiëren."
+    "category": "Mythologie",
+    "word": "Cerberus",
+    "explanation": "De driekoppige hond die de ingang van de onderwereld bewaakt."
   },
   {
-    "category": "Nintendo",
-    "word": "Fox",
-    "explanation": "De leider van het Star Fox team, bekend van de uitspraak 'Do a barrel roll!'."
+    "category": "Mythologie",
+    "word": "Pandora's doos",
+    "explanation": "De kruik (vaak doos genoemd) die alle rampen over de wereld verspreidde toen hij werd geopend, behalve de hoop."
   },
   {
-    "category": "Nintendo",
-    "word": "Falco",
-    "explanation": "De arrogante maar briljante piloot en vogel in het Star Fox team."
+    "category": "Mythologie",
+    "word": "Prometheus",
+    "explanation": "De Titaan die het vuur van de goden stal om aan de mensen te geven en als straf aan een rots werd geketend."
   },
   {
-    "category": "Nintendo",
-    "word": "Arwing",
-    "explanation": "Het iconische ruimteschip van het Star Fox team."
+    "category": "Mythologie",
+    "word": "Icarus",
+    "explanation": "De jongen die met vleugels van was en veren te dicht bij de zon vloog en in zee stortte."
   },
   {
-    "category": "Nintendo",
-    "word": "Captain Falcon",
-    "explanation": "De coureur uit F-Zero die vooral bekend is door zijn 'Falcon Punch' in Smash Bros."
+    "category": "Mythologie",
+    "word": "Atlas",
+    "explanation": "De Titaan die als straf het hemelgewelf op zijn schouders moest dragen."
   },
   {
-    "category": "Nintendo",
-    "word": "Ness",
-    "explanation": "De jongen met de honkbalknuppel uit EarthBound (Mother 2)."
+    "category": "Mythologie",
+    "word": "Sisyphus",
+    "explanation": "De man die voor eeuwig een zwaar rotsblok een berg op moet duwen, dat vlak voor de top weer naar beneden rolt."
   },
   {
-    "category": "Nintendo",
-    "word": "Marth",
-    "explanation": "De blauwharige prins en zwaardvechter uit de Fire Emblem-reeks."
+    "category": "Mythologie",
+    "word": "Koning Midas",
+    "explanation": "De man die wenste dat alles wat hij aanraakte in goud veranderde, wat hem bijna de dood bracht."
   },
   {
-    "category": "Nintendo",
-    "word": "Super Smash Bros.",
-    "explanation": "De vechtgame waarin alle personages van Nintendo (en daarbuiten) het tegen elkaar opnemen."
+    "category": "Mythologie",
+    "word": "Narcissus",
+    "explanation": "De knappe jongeman die verliefd werd op zijn eigen spiegelbeeld en wegkwijnde."
   },
   {
-    "category": "Nintendo",
-    "word": "Mario Kart",
-    "explanation": "De populairste race-game waarin je voorwerpen naar je tegenstanders gooit."
+    "category": "Mythologie",
+    "word": "Orpheus",
+    "explanation": "De geniale muzikant die naar de onderwereld afdaalde om zijn vrouw Eurydice terug te halen."
   },
   {
-    "category": "Nintendo",
-    "word": "Blue Shell",
-    "explanation": "Het meest gevreesde voorwerp in Mario Kart dat de koploper aanvalt."
+    "category": "Mythologie",
+    "word": "Persephone",
+    "explanation": "De dochter van Demeter die door Hades werd ontvoerd en de reden is voor de seizoenen."
   },
   {
-    "category": "Nintendo",
-    "word": "Rainbow Road",
-    "explanation": "De beruchte kleurrijke baan in de ruimte die in bijna elke Mario Kart voorkomt."
+    "category": "Mythologie",
+    "word": "Styx",
+    "explanation": "De rivier in de onderwereld waar de goden onbreekbare eden bij zweren."
   },
   {
-    "category": "Nintendo",
-    "word": "Lakitu",
-    "explanation": "De Koopa op een wolkje die de race start en je uit de afgrond vist."
+    "category": "Mythologie",
+    "word": "Charon",
+    "explanation": "De veerman die de zielen van de doden over de rivier de Styx zet tegen betaling van een munt."
   },
   {
-    "category": "Nintendo",
-    "word": "Dr. Mario",
-    "explanation": "De puzzelgame waarin Mario als arts vitamines op virussen gooit."
+    "category": "Mythologie",
+    "word": "Tartarus",
+    "explanation": "De diepste duisternis in de onderwereld waar de Titanen en de ergste zondaars gevangen zitten."
   },
   {
-    "category": "Nintendo",
-    "word": "Paper Mario",
-    "explanation": "De RPG-serie waarin Mario en zijn wereld volledig van papier zijn gemaakt."
+    "category": "Mythologie",
+    "word": "Elysese Velden",
+    "explanation": "Elysium; de paradijselijke plek in de onderwereld voor helden en deugdzame mensen."
   },
   {
-    "category": "Nintendo",
-    "word": "Super Mario 64",
-    "explanation": "De game die liet zien hoe een platformer in 3D moet werken."
+    "category": "Mythologie",
+    "word": "Olympus",
+    "explanation": "De hoogste berg van Griekenland en de woonplaats van de twaalf belangrijkste goden."
   },
   {
-    "category": "Nintendo",
-    "word": "Ocarina of Time",
-    "explanation": "De legendarische Zelda-game waarin tijdreizen en muziek centraal staan."
+    "category": "Mythologie",
+    "word": "Sphinx",
+    "explanation": "Het monster met het lichaam van een leeuw en het hoofd van een vrouw dat raadsels opgaf aan reizigers."
   },
   {
-    "category": "Nintendo",
-    "word": "Majora's Mask",
-    "explanation": "De duistere Zelda-game waarin je maar drie dagen hebt om de wereld te redden."
+    "category": "Mythologie",
+    "word": "Pegasus",
+    "explanation": "Het gevleugelde witte paard dat ontstond uit het bloed van Medusa."
   },
   {
-    "category": "Nintendo",
-    "word": "Breath of the Wild",
-    "explanation": "De open-wereld game die de Zelda-formule volledig veranderde op de Switch."
+    "category": "Mythologie",
+    "word": "Chiron",
+    "explanation": "De wijze Centaur die vele helden, waaronder Achilles en Jason, trainde."
   },
   {
-    "category": "Nintendo",
-    "word": "Tetris",
-    "explanation": "De puzzelgame die de Game Boy tot een wereldsucces maakte."
+    "category": "Mythologie",
+    "word": "Hydra",
+    "explanation": "Het meerkoppige slangachtige monster waarbij voor elke afgehakte kop er twee nieuwe aangroeiden."
   },
   {
-    "category": "Nintendo",
-    "word": "The Legend of Zelda",
-    "explanation": "De volledige naam van de avonturenreeks."
+    "category": "Mythologie",
+    "word": "Gulden Vlies",
+    "explanation": "De gouden vacht van een ram die door Jason en de Argonauten werd gezocht."
   },
   {
-    "category": "Nintendo",
-    "word": "Game Boy Advance",
-    "explanation": "De 32-bit opvolger van de Game Boy Color, herkenbaar aan de horizontale vorm."
+    "category": "Mythologie",
+    "word": "Argonauten",
+    "explanation": "De groep helden die met het schip de Argo meevoeren op zoek naar het Gulden Vlies."
   },
   {
-    "category": "Nintendo",
-    "word": "Nintendo DS",
-    "explanation": "De handheld met twee schermen en een touchscreen."
+    "category": "Mythologie",
+    "word": "Romulus en Remus",
+    "explanation": "De tweelingbroers die werden opgevoed door een wolvin en de stichters waren van Rome."
   },
   {
-    "category": "Nintendo",
-    "word": "Mario Party",
-    "explanation": "De beruchte vriendschap-verwoestende bordspel-game met minigames."
+    "category": "Mythologie",
+    "word": "Nike",
+    "explanation": "De Griekse godin van de overwinning, vaak afgebeeld met vleugels (Victoria bij de Romeinen)."
   },
   {
-    "category": "Nintendo",
-    "word": "It's-a me!",
-    "explanation": "De beroemdste begroeting uit de geschiedenis van videogames."
+    "category": "Mythologie",
+    "word": "Kronos",
+    "explanation": "De Titaan en vader van de Olympische goden die zijn eigen kinderen opat om te voorkomen dat ze hem zouden onttronen."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Daenerys Targaryen",
-    "explanation": "De Mother of Dragons, Breaker of Chains en de rechtmatige (vond ze zelf) erfgenaam van de IJzeren Troon."
+    "category": "Mythologie",
+    "word": "Saturnus",
+    "explanation": "De Romeinse naam voor Kronos, de god van de landbouw en de tijd."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Jon Snow",
-    "explanation": "De bastaard van Winterfell die eigenlijk Aegon Targaryen bleek te zijn; hij weet niets (volgens Ygritte)."
+    "category": "Mythologie",
+    "word": "Gaia",
+    "explanation": "Moeder Aarde, de oergodin die ontstond uit de Chaos en de moeder van de Titanen is."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Tyrion Lannister",
-    "explanation": "De 'Imp' die bekendstaat om zijn scherpe geest, liefde voor wijn en de uitspraak: 'I drink and I know things'."
+    "category": "Mythologie",
+    "word": "Oranos",
+    "explanation": "De personificatie van de hemel en de vader van de Titanen, die door zijn zoon Kronos werd gecastreerd."
   },
   {
-    "category": "Game of Thrones",
-    "word": "De IJzeren Troon",
-    "explanation": "De zetel van de koning van de Zeven Koninkrijken, gesmeed uit duizend zwaarden van overwonnen vijanden."
+    "category": "Mythologie",
+    "word": "Demeter",
+    "explanation": "De Griekse godin van de landbouw en de oogst, moeder van Persephone."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Winterfell",
-    "explanation": "Het voorouderlijke kasteel van de familie Stark en de hoofdstad van het Noorden."
+    "category": "Mythologie",
+    "word": "Ceres",
+    "explanation": "De Romeinse godin van het graan (waar ons woord 'cereals' vandaan komt)."
   },
   {
-    "category": "Game of Thrones",
-    "word": "De Muur",
-    "explanation": "De gigantische ijsconstructie die het rijk beschermt tegen de White Walkers en de Wildlings."
+    "category": "Mythologie",
+    "word": "Hestia",
+    "explanation": "De Griekse godin van de huiselijke haard en de familie, die altijd op de Olympus bleef."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Nachtwacht",
-    "explanation": "De 'Crows'; de mannen in het zwart die zweren hun leven te geven om de Muur te bewaken."
+    "category": "Mythologie",
+    "word": "Vesta",
+    "explanation": "De Romeinse haardgodin, bekend van de priesteressen (Vestaalse maagden) die haar vuur brandend hielden."
   },
   {
-    "category": "Game of Thrones",
-    "word": "White Walkers",
-    "explanation": "De 'Others'; de ijzige ondode wezens die onder leiding van de Night King Westeros binnenvallen."
+    "category": "Mythologie",
+    "word": "Eros",
+    "explanation": "De Griekse god van de begeerte en de liefde, vaak afgebeeld als een gevleugelde jongeman."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Drogon",
-    "explanation": "De grootste en meest agressieve draak van Daenerys, vernoemd naar Khal Drogo."
+    "category": "Mythologie",
+    "word": "Cupido",
+    "explanation": "De Romeinse liefdesgod met zijn pijl en boog."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Viserion",
-    "explanation": "De draak die door de Night King werd gedood en als ondode ijsdraak werd teruggehaald."
+    "category": "Mythologie",
+    "word": "Janus",
+    "explanation": "De Romeinse god met de twee gezichten, wachter van de poorten en de god van begin en einde (Januari)."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Rhaegal",
-    "explanation": "De groene draak die werd vernoemd naar de broer van Daenerys, Rhaegar."
+    "category": "Mythologie",
+    "word": "Pan",
+    "explanation": "De Griekse god van de natuur en de herders, met de benen en hoorns van een geit."
   },
   {
-    "category": "Game of Thrones",
-    "word": "The Red Wedding",
-    "explanation": "De beruchte bruiloft bij de Freys waar Robb Stark, zijn moeder Catelyn en zijn zwangere vrouw werden afgeslacht."
+    "category": "Mythologie",
+    "word": "Hecate",
+    "explanation": "De godin van de toverkunst, de nacht en de kruispunten, vaak afgebeeld met drie lichamen."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Valyrisch Staal",
-    "explanation": "Uitzonderlijk scherp en licht metaal dat met magie is gesmeed en White Walkers kan doden."
+    "category": "Mythologie",
+    "word": "Iris",
+    "explanation": "De godin van de regenboog en boodschapper van de goden (vooral van Hera)."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Cersei Lannister",
-    "explanation": "De meedogenloze koningin die alles overhad voor haar kinderen en haar macht op de troon."
+    "category": "Mythologie",
+    "word": "Thanatos",
+    "explanation": "De Griekse personificatie van de dood."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Jaime Lannister",
-    "explanation": "De 'Kingslayer' die de gekke koning Aerys doodde en een complexe reis van verlossing doormaakte."
+    "category": "Mythologie",
+    "word": "Hypnos",
+    "explanation": "De god van de slaap en de vader van Morpheus."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Arya Stark",
-    "explanation": "Het meisje dat 'Niemand' werd in Braavos en uiteindelijk de Night King doodde."
+    "category": "Mythologie",
+    "word": "Morpheus",
+    "explanation": "De god van de dromen die de vorm van mensen kan aannemen."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Naald",
-    "explanation": "Needle; het kleine, dunne zwaard van Arya Stark dat ze van Jon Snow kreeg."
+    "category": "Mythologie",
+    "word": "Nemesis",
+    "explanation": "De godin van de vergelding en de wraak tegen degenen die zich schuldig maken aan hoogmoed (hubris)."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Sansa Stark",
-    "explanation": "De 'Little Bird' die uitgroeide tot de strategische en sterke Queen in the North."
+    "category": "Mythologie",
+    "word": "Helios",
+    "explanation": "De Griekse zonnegod die elke dag met zijn strijdwagen langs de hemel rijdt."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Bran Stark",
-    "explanation": "De Three-Eyed Raven die alles in het verleden en heden kan zien."
+    "category": "Mythologie",
+    "word": "Eos",
+    "explanation": "De godin van de dageraad (Aurora bij de Romeinen)."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Hodor",
-    "explanation": "De trouwe reus wiens naam een afkorting bleek te zijn voor 'Hold the door'."
+    "category": "Mythologie",
+    "word": "Oceanus",
+    "explanation": "De Titaan van de enorme wereldrivier die de aarde omringt."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Ramsay Bolton",
-    "explanation": "De sadistische bastaard van Roose Bolton die Theon Greyjoy martelde tot 'Reek'."
+    "category": "Mythologie",
+    "word": "Jason",
+    "explanation": "De leider van de Argonauten die het Gulden Vlies stal van koning Aeetes."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Joffrey Baratheon",
-    "explanation": "De jonge, wrede koning die stierf door vergiftiging op zijn eigen bruiloft (The Purple Wedding)."
+    "category": "Mythologie",
+    "word": "Medea",
+    "explanation": "De machtige tovenares die Jason hielp, maar later uit wraak haar eigen kinderen vermoordde."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Petyr Baelish",
-    "explanation": "Littlefinger; de meester-manipulator die geloofde dat 'chaos is a ladder'."
+    "category": "Mythologie",
+    "word": "Theseus",
+    "explanation": "De held van Athene die de Minotaurus versloeg met hulp van de draad van Ariadne."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Little finger",
-    "explanation": "Bijnaam van Petyr Baelish"
+    "category": "Mythologie",
+    "word": "Bellerophon",
+    "explanation": "De held die op het gevleugelde paard Pegasus de Chimera versloeg."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Lord Varys",
-    "explanation": "De 'Spider'; de eunuch die via zijn 'kleine vogeltjes' (spionnen) alle geheimen van het rijk kende."
+    "category": "Mythologie",
+    "word": "Chimera",
+    "explanation": "Een monster met de kop van een leeuw, het lichaam van een geit en de staart van een slang."
   },
   {
-    "category": "Game of Thrones",
-    "word": "De Berg",
-    "explanation": "Gregor Clegane; de gigantische ridder en brute moordenaar die later als een soort zombie voortleefde."
+    "category": "Mythologie",
+    "word": "Atalanta",
+    "explanation": "De razendsnelle jaagster die alleen wilde trouwen met de man die haar kon verslaan in een hardloopwedstrijd."
   },
   {
-    "category": "Game of Thrones",
-    "word": "De Hond",
-    "explanation": "Sandor Clegane; de man met de verbrande gezichtshelft die een gecompliceerde band had met Arya."
+    "category": "Mythologie",
+    "word": "Oedipus",
+    "explanation": "De man die onbewust zijn vader doodde en met zijn moeder trouwde, nadat hij het raadsel van de Sphinx oploste."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Brienne of Tarth",
-    "explanation": "De vrouwelijke ridder die bekendstond om haar loyaliteit en haar gevechtskunst."
+    "category": "Mythologie",
+    "word": "Agamemnon",
+    "explanation": "De aanvoerder van de Grieken in de Trojaanse oorlog, vermoord door zijn vrouw Clytemnestra bij zijn thuiskomst."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Melisandre",
-    "explanation": "De Red Priestess die de Lord of Light diende en schaduwbaby's baarde."
+    "category": "Mythologie",
+    "word": "Menelaus",
+    "explanation": "De koning van Sparta en echtgenoot van Helena, wiens ontvoering de Trojaanse oorlog startte."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Stannis Baratheon",
-    "explanation": "De plichtsgetrouwe broer van Robert die geloofde dat hij de uitverkorene van de Lord of Light was."
+    "category": "Mythologie",
+    "word": "Helena van Troje",
+    "explanation": "De mooiste vrouw ter wereld; haar gezicht lanceerde duizend schepen."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Oberyn Martell",
-    "explanation": "De 'Red Viper' uit Dorne die stierf tijdens een duel met De Berg om zijn zus te wreken."
+    "category": "Mythologie",
+    "word": "Hector",
+    "explanation": "De grootste held van Troje en zoon van koning Priamus, gedood door Achilles."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Olenna Tyrell",
-    "explanation": "De 'Queen of Thorns'; de vlijmscherpe oma die achter de moord op Joffrey zat."
+    "category": "Mythologie",
+    "word": "Paris",
+    "explanation": "De Trojaanse prins die Helena ontvoerde en Achilles in zijn hiel schoot."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Theon Greyjoy",
-    "explanation": "De gijzelaar van de Starks die zijn familie verraadde, werd verminkt door Ramsay en stierf als een Stark."
+    "category": "Mythologie",
+    "word": "Priamus",
+    "explanation": "De oude koning van Troje tijdens de oorlog."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Valar Morghulis",
-    "explanation": "De High Valyrian spreuk die betekent: 'Alle mensen moeten sterven'."
+    "category": "Mythologie",
+    "word": "Patroclus",
+    "explanation": "De beste vriend van Achilles, wiens dood Achilles dwong weer mee te vechten."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Valar Dohaeris",
-    "explanation": "Het antwoord op Valar Morghulis, wat betekent: 'Alle mensen moeten dienen'."
+    "category": "Mythologie",
+    "word": "Aeneas",
+    "explanation": "De Trojaanse held die ontsnapte aan de brandende stad en de verre voorvader van de Romeinen werd."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Gezichtsloze Mannen",
-    "explanation": "De gilde van huurmoordenaars in Braavos die van gezicht kunnen wisselen."
+    "category": "Mythologie",
+    "word": "Dido",
+    "explanation": "De koningin van Carthago die zelfmoord pleegde toen Aeneas haar verliet."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Braavos",
-    "explanation": "De Vrije Stad bekend om de Titan-poort en de IJzeren Bank."
+    "category": "Mythologie",
+    "word": "Penelope",
+    "explanation": "De trouwe vrouw van Odysseus die twintig jaar op hem wachtte en haar vrijers aan het lijntje hield."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Koningstlanding",
-    "explanation": "King's Landing; de hoofdstad van de Zeven Koninkrijken."
+    "category": "Mythologie",
+    "word": "Polyphemus",
+    "explanation": "De Cycloop (eenogige reus) die door Odysseus werd blindgestoken."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Wildvuur",
-    "explanation": "Wildfire; de zeer brandbare groene vloeistof die zelfs op water blijft branden."
+    "category": "Mythologie",
+    "word": "Sirenen",
+    "explanation": "Wezens die zeelieden met hun gezang verleidden om op de rotsen te pletter te slaan."
   },
   {
-    "category": "Game of Thrones",
-    "word": "George R.R. Martin",
-    "explanation": "De schrijver van de boekenreeks 'A Song of Ice and Fire' waarop de serie is gebaseerd."
+    "category": "Mythologie",
+    "word": "Satyr",
+    "explanation": "Een vrolijk en ondeugend natuurwezen, half mens en half bok (Faun bij de Romeinen)."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Dothraki",
-    "explanation": "Het volk van paardenrijders uit de steppen van Essos."
+    "category": "Mythologie",
+    "word": "Dryade",
+    "explanation": "Een boomnimf wiens leven verbonden is aan een specifieke boom."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Dracarys",
-    "explanation": "Het commando dat Daenerys gebruikt om haar draken vuur te laten spuwen."
+    "category": "Mythologie",
+    "word": "Naiade",
+    "explanation": "Een waternimf die in bronnen, rivieren of meren woont."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Eddard Stark",
-    "explanation": "Ned; het morele kompas van de serie wiens onverwachte onthoofding de oorlog ontketende."
+    "category": "Mythologie",
+    "word": "Drietand",
+    "explanation": "Het machtige wapen van Poseidon."
   },
   {
-    "category": "Game of Thrones",
-    "word": "De Hand van de Koning",
-    "explanation": "De belangrijkste adviseur en plaatsvervanger van de zittende koning."
+    "category": "Mythologie",
+    "word": "Orakel van Delphi",
+    "explanation": "De profetes van Apollo die in raadsels de toekomst voorspelde."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Kasteel Zwart",
-    "explanation": "Castle Black; het hoofdkwartier van de Nachtwacht aan de voet van de Muur."
+    "category": "Mythologie",
+    "word": "Erebus",
+    "explanation": "De personificatie van de duisternis en een regio in de onderwereld."
   },
   {
-    "category": "Game of Thrones",
-    "word": "De IJzeren Eilanden",
-    "explanation": "De thuishaven van de Greyjoys, waar men gelooft in de Drowned God."
+    "category": "Mythologie",
+    "word": "Amazones",
+    "explanation": "Een legendarisch volk van vrouwelijke krijgers."
   },
   {
-    "category": "Game of Thrones",
-    "word": "Winter is Coming",
-    "explanation": "De woorden van de familie Stark en een waarschuwing voor naderend onheil."
+    "category": "Mythologie",
+    "word": "Hippolyta",
+    "explanation": "De koningin van de Amazones die haar gordel aan Hercules moest geven."
+  },
+  {
+    "category": "Mythologie",
+    "word": "Augeasstallen",
+    "explanation": "De stallen die in dertig jaar niet waren schoongemaakt en door Hercules in één dag werden gereinigd."
+  },
+  {
+    "category": "Mythologie",
+    "word": "Ajax de Grote",
+    "explanation": "De op één na sterkste Griekse held na Achilles, die zelfmoord pleegde na een ruzie over Achilles' harnas."
+  },
+  {
+    "category": "Mythologie",
+    "word": "Hubris",
+    "explanation": "Het Griekse woord voor overmoed of hoogmoed tegenover de goden, wat altijd gestraft wordt."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Millennium Falcon",
+    "explanation": "De 'hunk of junk' van Han Solo die de Kessel Run in minder dan 12 parsecs deed."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Order 66",
+    "explanation": "Het geheime bevel van Palpatine om alle Jedi door hun eigen Clone Troopers te laten executeren."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Mace Windu",
+    "explanation": "De Jedi-meester met het unieke paarse lichtzwaard en de vechtstijl Vaapad."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Midichlorians",
+    "explanation": "De microscopische levensvormen in cellen die de gevoeligheid voor de Force bepalen."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Qui-Gon Jinn",
+    "explanation": "De eigenzinnige Jedi-meester die Anakin ontdekte en de weg naar onsterfelijkheid vond."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Coruscant",
+    "explanation": "De stad-planeet die het centrum vormt van het sterrenstelsel en de senaat huisvestte."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Darth Sidious",
+    "explanation": "De Sith-naam van Sheev Palpatine, de man achter de val van de Republiek."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Darth Maul",
+    "explanation": "De Sith met de hoorns en het dubbelzijdige rode lichtzwaard."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Count Dooku",
+    "explanation": "Darth Tyranus, de leider van de Separatisten met het gebogen handvat aan zijn zwaard."
+  },
+  {
+    "category": "Star Wars",
+    "word": "General Grievous",
+    "explanation": "De cyborg-generaal met vier armen die lichtzwaarden van gedode Jedi verzamelt."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Lando",
+    "explanation": "De charmante gokker en vriend van Han Solo die Cloud City bestuurde."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Tatooine",
+    "explanation": "De woestijnplaneet met twee zonnen waar Luke en Anakin opgroeiden."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Jabba the Hutt",
+    "explanation": "De enorme slak-achtige misdaadbaas van de Outer Rim."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Endor",
+    "explanation": "De bosmaan waar de Ewoks hielpen om het Keizerrijk te verslaan."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Ewoks",
+    "explanation": "De kleine, harige bewoners van Endor die met stenen en speren vochten."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Death Star",
+    "explanation": "Het ruimtestation ter grootte van een maan dat hele planeten kan vernietigen."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Star Destroyer",
+    "explanation": "De enorme driehoekige oorlogsschepen van de Imperial Navy."
+  },
+  {
+    "category": "Star Wars",
+    "word": "X-Wing",
+    "explanation": "Het belangrijkste rebellenschip met inklapbare vleugels, gebruikt door Luke Skywalker."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Kylo Ren",
+    "explanation": "Ben Solo, de zoon van Han en Leia die naar de Dark Side overstapte."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Rey Skywalker",
+    "explanation": "De scavenger van Jakku die de laatste Jedi werd."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Finn",
+    "explanation": "FN-2187, de Stormtrooper die deserteerde en zich bij de rebellen aansloot."
+  },
+  {
+    "category": "Star Wars",
+    "word": "R2-D2",
+    "explanation": "De dappere blauw-witte droid die in bijna elke belangrijke film aanwezig is."
+  },
+  {
+    "category": "Star Wars",
+    "word": "C-3PO",
+    "explanation": "De gouden protocol-droid die vloeiend meer dan zes miljoen vormen van communicatie spreekt."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Chewbacca",
+    "explanation": "De trouwe Wookiee-copiloot van Han Solo."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Naboo",
+    "explanation": "De prachtige planeet van Padmé Amidala en de Gungans."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Jar Jar Binks",
+    "explanation": "De onhandige Gungan die per ongeluk een rol speelde in de opkomst van het Keizerrijk."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Darth Plagueis",
+    "explanation": "De meester van Palpatine die volgens de legende leven kon creëren en de dood kon voorkomen."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Tusken Raiders",
+    "explanation": "De 'Sand People' op Tatooine die bekendstaan om hun agressie."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Jawa's",
+    "explanation": "De kleine wezens in bruine gewaden met gloeiende ogen die handelen in droids en schroot."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Sandcrawler",
+    "explanation": "Het enorme rijdende fort van de Jawa's."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Carbonite",
+    "explanation": "Het materiaal waarin Han Solo werd ingevroren om naar Jabba te worden gebracht."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Boba Fett",
+    "explanation": "De beroemdste premiejager die uit de Sarlacc ontsnapte en later de Daimyo van Tatooine werd."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Jango Fett",
+    "explanation": "De vader (en genetische bron) van alle clones en Boba Fett."
+  },
+  {
+    "category": "Star Wars",
+    "word": "The High Republic",
+    "explanation": "Het tijdperk honderden jaren voor de films, de gouden eeuw van de Jedi."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Dark Side",
+    "explanation": "De kant van de Force die gevoed wordt door emoties als woede, angst en haat."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Padawan",
+    "explanation": "De titel van een Jedi-leerling."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Jedi Knight",
+    "explanation": "De rang van een Jedi die zijn training heeft voltooid."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Jedi Master",
+    "explanation": "De hoogste rang binnen de Jedi-orde."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Blaster",
+    "explanation": "Het meest voorkomende vuurwapen dat rode of blauwe stralen afschiet."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Outer Rim",
+    "explanation": "De rand van het sterrenstelsel waar de wet minder streng is."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Jedi Mind Trick",
+    "explanation": "‘These are not the droids you are looking for’."
+  },
+  {
+    "category": "Star Wars",
+    "word": "The Force Awakens",
+    "explanation": "De titel van Episode VII."
+  },
+  {
+    "category": "Star Wars",
+    "word": "The Last Jedi",
+    "explanation": "De titel van Episode VIII."
+  },
+  {
+    "category": "Star Wars",
+    "word": "The Rise of Skywalker",
+    "explanation": "De titel van Episode IX."
+  },
+  {
+    "category": "Star Wars",
+    "word": "A New Hope",
+    "explanation": "De titel van Episode IV."
+  },
+  {
+    "category": "Star Wars",
+    "word": "The Empire Strikes Back",
+    "explanation": "De titel van Episode V."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Return of the Jedi",
+    "explanation": "De titel van Episode VI."
+  },
+  {
+    "category": "Star Wars",
+    "word": "The Phantom Menace",
+    "explanation": "De titel van Episode I."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Attack of the Clones",
+    "explanation": "De titel van Episode II."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Revenge of the Sith",
+    "explanation": "De titel van Episode III."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Rogue One",
+    "explanation": "De eerste Star Wars Story film over de diefstal van de Death Star plannen."
+  },
+  {
+    "category": "Star Wars",
+    "word": "Alderaan",
+    "explanation": "De planeet van prinses Leia die door de Death Star werd vernietigd."
+  },
+  {
+    "category": "Star Wars",
+    "word": "May the Force be with you",
+    "explanation": "De bekendste groet van de Jedi."
+  },
+  {
+    "category": "Star Wars",
+    "word": "I am your father",
+    "explanation": "De grootste plottwist in de filmgeschiedenis."
   }
 ]
